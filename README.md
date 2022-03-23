@@ -12,8 +12,6 @@
     <img width="85%" alt="Screenshots translation" src="https://media.discordapp.net/attachments/939569454390603837/956248049171185684/unknown.png?width=1193&height=671">
 </details>
 
-___
-
 ## Installation
 
 Go to the "Releases" tab, select the latest version which is at this time. 
