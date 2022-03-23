@@ -3,7 +3,7 @@
 :ukraine:Ukrainian translation of the game [Deltarune](https://deltarune.com/).<br>The translation is alive, because it is translated by a Ukrainian. All jokes and complicated concepts were translated to us with jokes and situations.
 
 <details>
-    <summary>Screenshots with translation</sumamry>
+    <summary>Screenshots with translation:</summary>
     <img width="85%" alt="Screenshots translation" src="https://media.discordapp.net/attachments/939569454390603837/956236170386362408/unknown.png?">
     <img width="85%" alt="Screenshots translation" src="https://media.discordapp.net/attachments/939569454390603837/956236575656796180/unknown.png">
     <img width="85%" alt="Screenshots translation" src="https://media.discordapp.net/attachments/939569454390603837/956236587614748762/unknown.png">
