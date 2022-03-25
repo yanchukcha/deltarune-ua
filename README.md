@@ -11,6 +11,8 @@
     <img width="75%" alt="Screenshots translation" src="https://media.discordapp.net/attachments/939569454390603837/956241700215472179/unknown.png">
     <img width="75%" alt="Screenshots translation" src="https://media.discordapp.net/attachments/939569454390603837/956237101219844106/unknown.png">
     <img width="75%" alt="Screenshots translation" src="https://media.discordapp.net/attachments/939569454390603837/956248049171185684/unknown.png">
+    <img width="75%" alt="Screenshots translation" src="https://camo.githubusercontent.com/9d099fc54fb30fc296a91323f881c03f34899c1fbfe53135abf4d120aab47251/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3731383138383233363433333931363032362f3935363635343439353434303433373237382f756e6b6e6f776e2e706e67">
+    <img width="75%" alt="Screenshots translation" src="https://camo.githubusercontent.com/69cd15d581d1e3dfe52fc8c3bf361c8ed9c83dfc1275c6cd2678fecff1b346ef/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3731383138383233363433333931363032362f3935363635363338303431393337393235302f756e6b6e6f776e2e706e67">
 </details>
 
 
