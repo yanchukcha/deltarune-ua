@@ -18,7 +18,7 @@
 
 ## Встановлення
 
-**Переклад прцює лише на версії 1.07!** <br>[Завантажити її можна тут.](https://drive.google.com/drive/u/0/folders/1wy07z19D6sPseP47B1FmKoP9PhCBr5bB)
+**Переклад працює лише на версії 1.07!** <br>[Завантажити її можна тут.](https://drive.google.com/drive/u/0/folders/1wy07z19D6sPseP47B1FmKoP9PhCBr5bB)
 
 ### Перше встановлення
 Переходимо у вкладку "[Releases](https://github.com/INDMops/deltarune-ua/releases)", вибираємо останню версію яка є на цей час. Та завантажуємо `deltarune-ua.zip` чи `deltarune-ua.tar`, якщо ви користувач Linux.<br>Далі переходимо в "корінь" гри(це можна зробити натиснувши ПКМ по ярлику на робочуму столі і вибрати "Відкрити розташування файлу").
