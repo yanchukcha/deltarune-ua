@@ -54,7 +54,7 @@
 - yanchukcha
 
 ### Редактор
-- Daniil Roczniak
+- Danylo Roczniak
 
 ### Тестер та помічник перекладача:
 - INDMops
