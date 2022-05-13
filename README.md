@@ -54,7 +54,7 @@
 - yanchukcha
 
 ### Редактор
-- ChulkyBow
+- Daniil Roczniak
 
 ### Тестер та помічник перекладача:
 - INDMops
