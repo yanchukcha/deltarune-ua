@@ -15,10 +15,24 @@
     <img width="75%" alt="Screenshots translation" src="https://camo.githubusercontent.com/69cd15d581d1e3dfe52fc8c3bf361c8ed9c83dfc1275c6cd2678fecff1b346ef/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3731383138383233363433333931363032362f3935363635363338303431393337393235302f756e6b6e6f776e2e706e67">
 </details>
 
+# Увага!
+Тут наразі зберігається застаіла версія модифікації. Повний переклад першого розділу буде викладено після його перед-проходження стрімерами, яким він довірений у ранній доступ.
+
+**Список каналів, де це відбуватиметься:**
+
+[neonbonbon](https://www.twitch.tv/neonbonbon?sr=a)
+
+[ToriYumino](https://www.twitch.tv/toriyumino?sr=a)
+
+[saintroker](https://www.twitch.tv/saintroker?sr=a)
+
+[ВареничкиМої](https://youtube.com/channel/UCiABmlR76kX7SKTrPXlBspA)
 
 ## Встановлення
 
-**Переклад працює лише на версії 1.07!** <br>[Завантажити її можна тут.](https://drive.google.com/file/d/1hS3FWsTaqP1JTlubLe2AeYxFKPGm9oiw/view)
+Ця секція буде оновлена після релізу 1 розділу!
+
+**Переклад у застарілому стані працює лише на версії 1.07!** <br>[Завантажити її можна тут.](https://drive.google.com/file/d/1hS3FWsTaqP1JTlubLe2AeYxFKPGm9oiw/view)
 
 ### Перше встановлення
 Переходимо у вкладку "[Releases](https://github.com/INDMops/deltarune-ua/releases)", вибираємо останню версію яка є на цей час. Та завантажуємо `deltarune-ua.zip` чи `deltarune-ua.tar`, якщо ви користувач Linux.<br>Далі переходимо в "корінь" гри(це можна зробити натиснувши ПКМ по ярлику на робочуму столі і вибрати "Відкрити розташування файлу").
