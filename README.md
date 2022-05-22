@@ -16,7 +16,9 @@
 </details>
 
 **Також ми маємо свою українську спільноту гри Deltarune в Discord)**
+```
 <iframe src="https://discord.com/widget?id=975491034823917658&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+```
 
 ## Deltarune
 
