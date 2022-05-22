@@ -20,7 +20,7 @@
 <br>[Саму гру можна безкоштовно встановити з офіційних джерел, які можна знайти за цим посиланням.](https://deltarune.com/)
 
 ### Встановлення мода:
-Переходимо до вкладки "[Releases](https://github.com/INDMops/deltarune-ua/releases)", обираємо останню версію яка є наразі. Там завантажуємо `Deltarune.UA.rar`, `Deltarune.UA.zip` або ж `Deltarune.UA.tar`, якщо ви користувач Linux.<br>Далі переходимо в "корінь" гри(це можна зробити, натиснувши ПКМ по ярлику на робочому столі і обравши "Відкрити розташування файлу").
+Переходимо до вкладки "[Releases](https://github.com/INDMops/deltarune-ua/releases)", обираємо останню версію яка є наразі. Там завантажуємо `Deltarune.UA.zip`, або ж `Deltarune.UA.tar`, якщо ви користувач Linux.<br>Далі переходимо в "корінь" гри(це можна зробити, натиснувши ПКМ по ярлику на робочому столі і обравши "Відкрити розташування файлу").
 <br>
 <img width="75%" alt="How to open the game folder" src="https://media.discordapp.net/attachments/939569454390603837/956289773503381564/unknown.png">
 <br>
