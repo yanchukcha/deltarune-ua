@@ -46,10 +46,10 @@
 ## Перекладацька команда «Pereclaw»:
 
 ### Головний перекладач:
-- yanchukcha
+- [yanchukcha](https://github.com/yanchukcha)
 
 ### Редактор та організатор:
-- Danylo Roczniak
+- [Danylo Roczniak](https://github.com/ChulkyBow)
 
 ### Озвучення Джиявола:
 - LostHuman (Голос)
@@ -58,10 +58,12 @@
 
 ### Don't Forget - «Не забудь» (Вокальний уривок):
 - Лора Шиґігара (Композитор)
-- FulminisIctus - Youtube (Піаніно)
-- neonbonbon - Twitch (Вокал)
+- FulminisIctus - [Youtube](https://www.youtube.com/c/FulminisIctus) (Піаніно)
+- neonbonbon - [Twitch](https://www.twitch.tv/neonbonbon?sr=a) (Вокал)
+- yanchukcha (Обробка)
+- Danylo Roczniak (Режисер)
 
 ### Інші редактори та помічники:
-- Florentia Mysteria (Редактор)
-- INDMops (Помічник)
+- [Florentia Mysteria](https://github.com/florik-florentia) (Редактор)
+- [INDMops](https://github.com/IndiMops) (Помічник)
 - Яйойщик
