@@ -46,10 +46,10 @@
 ## Перекладацька команда «Pereclaw»:
 
 ### Головний перекладач:
-- [yanchukcha](https://github.com/yanchukcha)
+- yanchukcha: [Discord](https://discord.com/users/366303194688782336)
 
 ### Редактор та організатор:
-- [Danylo Roczniak](https://github.com/ChulkyBow)
+- Danylo Roczniak: [Discord](https://discord.com/users/625325289656025089), [Steam](https://steamcommunity.com/id/DanyloRoch/), [Twitch](https://www.twitch.tv/danyloroch)
 
 ### Озвучення Джиявола:
 - LostHuman (Голос)
