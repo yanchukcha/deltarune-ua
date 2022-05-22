@@ -16,8 +16,7 @@
 </details>
 
 **Також ми маємо свою українську спільноту гри Deltarune в Discord)**
-Натисніть [сюди](https://discord.gg/uBMDfeMDJ3), щоб приєднатися. 
-<url>https://discord.gg/uBMDfeMDJ3</url>
+<br>Натисніть [сюди](https://discord.gg/uBMDfeMDJ3), щоб приєднатися.
 ## Deltarune
 
 <br>[Саму гру можна безкоштовно встановити з офіційних джерел, які можна знайти за цим посиланням.](https://deltarune.com/)
