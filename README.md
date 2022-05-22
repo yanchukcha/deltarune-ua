@@ -15,7 +15,7 @@
     <img width="75%" alt="Screenshots translation" src="https://cdn.discordapp.com/attachments/718188236433916026/974323245497061416/unknown.png">
 </details>
 
-## deltarune
+## Deltarune
 
 <br>[Саму гру можна безкоштовно встановити з офіційних джерел, які можна знайти за цим посиланням.](https://deltarune.com/)
 
