@@ -36,13 +36,11 @@
 
 [neonbonbon](https://www.twitch.tv/neonbonbon?sr=a) - в процесі
 
-[ToriYumino](https://www.twitch.tv/toriyumino?sr=a) - в процесі
-
-[saintroker](https://www.twitch.tv/saintroker?sr=a)
+[ToriYumino](https://www.twitch.tv/toriyumino?sr=a) - завершено
 
 [ВареничкиМої](https://youtube.com/channel/UCiABmlR76kX7SKTrPXlBspA) - завершено
 
-Переклад другого розділу почнеться згодом.
+Переклад другого розділу вже триває.
 # Автори
 
 ### Перекладач та редактор:
