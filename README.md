@@ -29,7 +29,22 @@
 <img width="75%" alt="Move files" src="https://media.discordapp.net/attachments/939569454390603837/956290663828307968/unknown.png">
 <br>
 ### Повідомлення про проблеми та питання:
-Якщо у вас виникли якісь проблеми із встановленням, чи є якісь інші питання, заходьте до вкладки "[Issues](https://github.com/IndiMops/deltarune-ua/issues)", обирайте "Create new isuue", та за допомогу готового шаблону з інструкціями [створіть](https://github.com/IndiMops/deltarune-ua/issues/new/choose) нове повідомлення про проблему та/або знайдену помилку в перекладі чи питання щодо нього.<br>Також ви можете особисто звернутися до [yanchukcha](https://discord.com/users/366303194688782336), [danylo](https://discord.com/users/625325289656025089) або [indi_mops](https://discord.com/users/734082410504781854) в Discord.<br>
+Якщо у вас виникли якісь проблеми із встановленням, чи є якісь інші питання:
+**1.** Заходьте до вкладки "[Issues](https://github.com/IndiMops/deltarune-ua/issues)" та обирайте "Create new isuue".
+<br>
+<img width="75%" alt="How create new issue" src="https://media.discordapp.net/attachments/975536726967734272/978027414309462108/unknown.png">
+<br>
+<br>
+<img width="75%" alt="Сreate new issue" src="https://media.discordapp.net/attachments/975536726967734272/978029126399176754/unknown.png">
+<br>
+**2.** А за допомогою готового шаблону з інструкціями [створіть](https://github.com/IndiMops/deltarune-ua/issues/new/choose) нове повідомлення про проблему та/або знайдену помилку в перекладі чи питання щодо нього.
+<br>
+<img width="75%" alt="Create issue by template" src="https://media.discordapp.net/attachments/975536726967734272/978029613928284220/unknown.png">
+<br>
+<br>
+<img width="75%" alt="Issue template" src="https://media.discordapp.net/attachments/975536726967734272/978030001888854056/unknown.png">
+<br>
+Також ви можете особисто звернутися до [yanchukcha](https://discord.com/users/366303194688782336), [danylo](https://discord.com/users/625325289656025089) або [indi_mops](https://discord.com/users/734082410504781854) в Discord.<br>
 # Новини та оголошення
 Переклад 1-го розділу готовий. Над другим команда вже працює. **Якщо вам цікаво, вже є перед-проходження українськими стрімерами, які можете переглянути за цими посиланнями:**
 
