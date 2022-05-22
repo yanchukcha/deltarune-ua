@@ -15,6 +15,9 @@
     <img width="75%" alt="Screenshots translation" src="https://cdn.discordapp.com/attachments/718188236433916026/974323245497061416/unknown.png">
 </details>
 
+**Також ми маємо свою українську спільноту гри Deltarune в Discord)**
+<iframe src="https://discord.com/widget?id=975491034823917658&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 ## Deltarune
 
 <br>[Саму гру можна безкоштовно встановити з офіційних джерел, які можна знайти за цим посиланням.](https://deltarune.com/)
