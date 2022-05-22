@@ -52,7 +52,7 @@
 - Danylo Roczniak: [Discord](https://discord.com/users/625325289656025089), [Steam](https://steamcommunity.com/id/DanyloRoch/), [Twitch](https://www.twitch.tv/danyloroch)
 
 ### Озвучення Джиявола:
-- LostHuman (Голос)
+- LostHuman - [Youtube](https://www.youtube.com/c/WildGamer111)(Голос)
 - yanchukcha (Обробка)
 - Danylo Roczniak (Режисер)
 
