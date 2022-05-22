@@ -39,17 +39,17 @@
 <br>
 <img width="75%" alt="Сreate new issue" src="https://media.discordapp.net/attachments/975536726967734272/978029126399176754/unknown.png">
 <br>
-**2.** А за допомогою готового шаблону з інструкціями [створіть](https://github.com/IndiMops/deltarune-ua/issues/new/choose) нове повідомлення про проблему та/або знайдену помилку в перекладі чи питання щодо нього.
+**2.** З допомогою готового шаблону з інструкціями [створіть](https://github.com/IndiMops/deltarune-ua/issues/new/choose) нове повідомлення про проблему та/або знайдену помилку в перекладі чи питання щодо нього.
 <br>
 <img width="75%" alt="Create issue by template" src="https://media.discordapp.net/attachments/975536726967734272/978029613928284220/unknown.png">
 <br>
 <br>
 <img width="75%" alt="Issue template" src="https://media.discordapp.net/attachments/975536726967734272/978030001888854056/unknown.png">
 <br>
-**3.** А для завершення натисніть на "Submit new issue", щоб підтвердити створення свого повідомлення. Готово!<br>
+**3.** Для завершення натисніть на "Submit new issue", щоб підтвердити створення свого повідомлення. Готово!<br>
 Також ви можете особисто звернутися до [yanchukcha](https://discord.com/users/366303194688782336), [danylo](https://discord.com/users/625325289656025089) або [indi_mops](https://discord.com/users/734082410504781854) в Discord.<br>
 # Новини та оголошення
-Переклад 1-го розділу готовий. Над другим команда вже працює. **Якщо вам цікаво, вже є перед-проходження українськими стрімерами, які можете переглянути за цими посиланнями:**
+Переклад 1-го розділу готовий. **Якщо вам цікаво, є перед-проходження перекладу 1-го розділу українськими стрімерами, які ви можете переглянути за цими посиланнями:**
 
 [neonbonbon](https://www.twitch.tv/neonbonbon?sr=a) - в процесі?
 
