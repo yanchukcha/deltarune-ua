@@ -26,10 +26,11 @@
 <br>
 <img width="75%" alt="How to open the game folder" src="https://media.discordapp.net/attachments/975536726967734272/977991842543054948/unknown.png">
 <br>
-Переносимо файли (`data.win` та теку `lang`) із завантаженого архіву просто в папку гри, **та обов'язково погоджуємося із заміною!**
+Переносимо файли (`data.win` та теку `lang`) із завантаженого архіву просто до теки гри, **та обов'язково погоджуємося із заміною!**
 <br>
 <img width="75%" alt="Move files" src="https://media.discordapp.net/attachments/939569454390603837/956290663828307968/unknown.png">
 <br>
+Тепер заходимо у  гру та серед наявних мов обираємо українську. Готово! Приємної гри!
 ### Повідомлення про проблеми та питання:
 Якщо у вас виникли якісь проблеми із встановленням, чи є якісь інші питання:
 **1.** Заходьте до вкладки "[Issues](https://github.com/IndiMops/deltarune-ua/issues)" та обирайте "Create new isuue".
@@ -39,7 +40,7 @@
 <br>
 <img width="75%" alt="Сreate new issue" src="https://media.discordapp.net/attachments/975536726967734272/978029126399176754/unknown.png">
 <br>
-**2.** З допомогою готового шаблону з інструкціями [створіть](https://github.com/IndiMops/deltarune-ua/issues/new/choose) нове повідомлення про проблему та/або знайдену помилку в перекладі чи питання щодо нього.
+**2.** За допомогою готового шаблону з інструкціями [створіть](https://github.com/IndiMops/deltarune-ua/issues/new/choose) нове повідомлення про проблему та/або знайдену помилку в перекладі чи питання щодо нього.
 <br>
 <img width="75%" alt="Create issue by template" src="https://media.discordapp.net/attachments/975536726967734272/978029613928284220/unknown.png">
 <br>
