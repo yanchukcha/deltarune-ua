@@ -3,6 +3,8 @@
 
 Український переклад гри [Deltarune](https://deltarune.com/).<br>Переклад є особливим тому, що робиться українцями. Ви не зустрінете в діалогах машинного перекладу - **лише живий!**<br>Переклад перефразовує англомовні жарти на зрозумілі для українців, тому вам не буде нудно проходити гру.<br>Перший розділ гри перекладено повністю: Текст, текстури та озвучення (**Голос Джиявола** та вокальний уривок «**Не забудь**» (ориг. «**Dont Forget**»)).
 
+[Повна битва з українським Джияволом з гри Deltarune](https://www.youtube.com/watch?v=LrTNVlcmk0M&t=3s) на [YouTube каналі](https://www.youtube.com/channel/UCNG4f8zRUFxw1JvtQV8oh_w) нашої команди перекладачів.
+
 <details>
     <summary>Приклади перекладу:</summary>
     <img width="75%" alt="Screenshots translation" src="https://cdn.discordapp.com/attachments/718188236433916026/974783328664309880/unknown.png">
