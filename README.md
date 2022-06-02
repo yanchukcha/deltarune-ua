@@ -67,8 +67,7 @@
 <br><br>[Nexusmods](https://www.nexusmods.com/deltarune/mods/8?tab=files)<br>
 
 ### Ми в соцмережах
-[Українська спільноту гри Deltarune в Discord](https://discord.gg/uBMDfeMDJ3)
-<br><br>[YouTube](https://www.youtube.com/channel/UCNG4f8zRUFxw1JvtQV8oh_w/featured)
+[YouTube](https://www.youtube.com/channel/UCNG4f8zRUFxw1JvtQV8oh_w/featured)
 <br><br>[Telegram](https://t.me/Pereclaw)
 <br><br>[TikTok](https://www.tiktok.com/@pereclawteam_ua)
 
