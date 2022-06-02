@@ -62,12 +62,12 @@
 # Посилання
 
 ### Завантаження мода
-<br>[Github](https://github.com/IndiMops/deltarune-ua/releases)
+[Github](https://github.com/IndiMops/deltarune-ua/releases)
 <br><br>[Google Диск](https://drive.google.com/drive/folders/1ddDw02e9ku1zThp_Ia6moOhIsqJEMlbt?usp=sharing)
 <br><br>[Nexusmods](https://www.nexusmods.com/deltarune/mods/8?tab=files)<br>
 
 ### Ми в соцмережах
-<br>[Українська спільноту гри Deltarune в Discord](https://discord.gg/uBMDfeMDJ3)
+[Українська спільноту гри Deltarune в Discord](https://discord.gg/uBMDfeMDJ3)
 <br><br>[YouTube](https://www.youtube.com/channel/UCNG4f8zRUFxw1JvtQV8oh_w/featured)
 <br><br>[Telegram](https://t.me/Pereclaw)
 <br><br>[TikTok](https://www.tiktok.com/@pereclawteam_ua)
