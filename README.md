@@ -20,11 +20,10 @@
 <br>Натисніть [сюди](https://discord.gg/uBMDfeMDJ3), щоб приєднатися.
 ## Deltarune
 **P.S** : Якщо ви стримите або нумограєте гру з нашою українізацією, просимо вас вказати авторів перекладу та/або оригінальних творців гри нижче.
-<br>
+<br><br>
 (**UKR**) Автор гри/Власник прав на гру: Тобі Фокс<br>(**ENG**) Copyright/Author: TobyFox
-
-<br><br>(**UKR**) Оригінальні образи та графіка : [Теммі Чанґ](https://twitter.com/tuyoki) та [Kanotynes](https://twitter.com/kanotynes)<br>(**ENG**) Art: [Temmie Chang](https://twitter.com/tuyoki) & [Kanotynes](https://twitter.com/kanotynes)
-
+<br><br>
+(**UKR**) Оригінальні образи та графіка : [Теммі Чанґ](https://twitter.com/tuyoki) та [Kanotynes](https://twitter.com/kanotynes)<br>(**ENG**) Art: [Temmie Chang](https://twitter.com/tuyoki) & [Kanotynes](https://twitter.com/kanotynes)
 <br><br>[Саму гру можна безкоштовно встановити з офіційних джерел, які можна знайти за цим посиланням.](https://deltarune.com/)
 
 ### Встановлення мода:
