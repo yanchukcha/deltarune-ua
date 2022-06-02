@@ -63,27 +63,28 @@
 
 ### Завантаження мода
 <br>
-- [Github](https://github.com/IndiMops/deltarune-ua/releases)
+[Github](https://github.com/IndiMops/deltarune-ua/releases)
 <br>
 <br>
-- [Google Диск](https://drive.google.com/drive/folders/1ddDw02e9ku1zThp_Ia6moOhIsqJEMlbt?usp=sharing)
+[Google Диск](https://drive.google.com/drive/folders/1ddDw02e9ku1zThp_Ia6moOhIsqJEMlbt?usp=sharing)
 <br>
 <br>
-- [Nexusmods](https://www.nexusmods.com/deltarune/mods/8?tab=files)
+[Nexusmods](https://www.nexusmods.com/deltarune/mods/8?tab=files)
 <br>
 ### Ми в соцмережах
 <br>
-- [Українська спільноту гри Deltarune в Discord](https://discord.gg/uBMDfeMDJ3)
+[Українська спільноту гри Deltarune в Discord](https://discord.gg/uBMDfeMDJ3)
 <br>
 <br>
-- [YouTube](https://www.youtube.com/channel/UCNG4f8zRUFxw1JvtQV8oh_w/featured)
+[YouTube](https://www.youtube.com/channel/UCNG4f8zRUFxw1JvtQV8oh_w/featured)
 <br>
 <br>
-- [Telegram](https://t.me/Pereclaw)
+[Telegram](https://t.me/Pereclaw)
 <br>
 <br>
-- [TikTok](https://www.tiktok.com/@pereclawteam_ua)
+[TikTok](https://www.tiktok.com/@pereclawteam_ua)
 <br>
+
 # Новини та оголошення
 Переклад 1-го розділу повністю готовий, але досі рекомендується лишати відгуки щодо перекладу!<br>Внести у нього зміни потребує мінімальних зусиль, тому не соромтеся.<br>Переклад 2-го розділу наразі триває.
 <br><br>**Якщо вам цікаво, є перед-проходження перекладу 1-го розділу українськими стрімерами, які ви можете переглянути за цими посиланнями:**
