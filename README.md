@@ -90,6 +90,9 @@
 ### Головний перекладач:
 - yanchukcha: [Discord](https://discord.com/users/366303194688782336)
 
+### Інші перекладачі:
+- I.OL
+
 ### Редактор та організатор:
 - Danylo Roczniak: [Discord](https://discord.com/users/625325289656025089), [Steam](https://steamcommunity.com/id/DanyloRoch/), [Twitch](https://www.twitch.tv/danyloroch)
 
