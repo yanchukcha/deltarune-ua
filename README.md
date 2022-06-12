@@ -92,8 +92,9 @@
 
 ### Інші перекладачі:
 - I.OL
+- Danylo Roczniak
 
-### Редактор та організатор:
+### Організатор та перекладач:
 - Danylo Roczniak: [Discord](https://discord.com/users/625325289656025089), [Steam](https://steamcommunity.com/id/DanyloRoch/), [Twitch](https://www.twitch.tv/danyloroch)
 
 ### Озвучення Джиявола:
@@ -108,7 +109,7 @@
 - yanchukcha (Обробка)
 - Danylo Roczniak (Режисер)
 
-### Інші редактори та помічники:
+### Редактори та помічники:
 - [Florentia Mysteria](https://github.com/florik-florentia) (Редактор)
 - [INDMops](https://github.com/IndiMops) (Помічник)
 - Яйойщик
