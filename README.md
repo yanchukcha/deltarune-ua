@@ -76,7 +76,7 @@
 <br><br>**Якщо вам цікаво, є записи проходження перекладу 1-го розділу українськими стрімерами, які ви можете переглянути за цими посиланнями:**
 
 ### Twitch
-[neonbonbon](https://www.twitch.tv/neonbonbon?sr=a) - в процесі?
+[neonbonbon](https://www.twitch.tv/neonbonbon?sr=a) - завершено?
 
 [ToriYumino](https://www.twitch.tv/toriyumino?sr=a) - завершено
 
