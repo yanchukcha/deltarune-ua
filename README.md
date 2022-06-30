@@ -93,6 +93,7 @@
 ### Інші перекладачі:
 - I.OL
 - Danylo Roczniak
+- Семен Згущений
 
 ### Організатор та перекладач:
 - Danylo Roczniak: [Discord](https://discord.com/users/625325289656025089), [Steam](https://steamcommunity.com/id/DanyloRoch/), [Twitch](https://www.twitch.tv/danyloroch)
