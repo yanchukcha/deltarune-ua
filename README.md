@@ -10,7 +10,6 @@
     <img width="75%" alt="Screenshots translation" src="https://cdn.discordapp.com/attachments/718188236433916026/974783328664309880/unknown.png">
     <img width="75%" alt="Screenshots translation" src="https://cdn.discordapp.com/attachments/718188236433916026/974782952020013116/unknown.png">
     <img width="75%" alt="Screenshots translation" src="https://cdn.discordapp.com/attachments/718188236433916026/972812056833183794/unknown.png">
-    <img width="75%" alt="Screenshots translation" src="https://cdn.discordapp.com/attachments/718188236433916026/973961623775637574/unknown.png">
     <img width="75%" alt="Screenshots translation" src="https://cdn.discordapp.com/attachments/718188236433916026/972812387960909895/unknown.png">
     <img width="75%" alt="Screenshots translation" src="https://cdn.discordapp.com/attachments/718188236433916026/956654495440437278/unknown.png">
     <img width="75%" alt="Screenshots translation" src="https://cdn.discordapp.com/attachments/718188236433916026/972846037154791435/unknown.png">
