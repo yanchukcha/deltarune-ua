@@ -4,6 +4,9 @@
 
 <details>
     <summary>Приклади перекладу:</summary>
+    <img width="75%" alt="Screenshots translation" src="https://cdn.discordapp.com/attachments/975536726967734272/1033464721795453039/20221020185357_2.jpg">
+    <img width="75%" alt="Screenshots translation" src="https://cdn.discordapp.com/attachments/975536726967734272/1033464696386367578/2022-10-20_180548.png">
+    <img width="75%" alt="Screenshots translation" src="https://cdn.discordapp.com/attachments/975536726967734272/1033464643630415993/20221020181207_1.jpg">
     <img width="75%" alt="Screenshots translation" src="https://cdn.discordapp.com/attachments/718188236433916026/974783328664309880/unknown.png">
     <img width="75%" alt="Screenshots translation" src="https://cdn.discordapp.com/attachments/718188236433916026/974782952020013116/unknown.png">
     <img width="75%" alt="Screenshots translation" src="https://cdn.discordapp.com/attachments/718188236433916026/972812056833183794/unknown.png">
