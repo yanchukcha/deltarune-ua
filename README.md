@@ -101,6 +101,7 @@
 [YouTube](https://www.youtube.com/channel/UCNG4f8zRUFxw1JvtQV8oh_w/featured)
 <br><br>[Telegram](https://t.me/Pereclaw)
 <br><br>[TikTok](https://www.tiktok.com/@pereclawteam_ua)
+<br><br>[Наш сервер у Discord](https://discord.gg/uBMDfeMDJ3)
 
 # Новини та оголошення
 Переклад 1-го розділу повністю готовий, але досі рекомендується лишати відгуки щодо перекладу!<br>Внести у нього зміни потребує мінімальних зусиль, тому не соромтеся.
