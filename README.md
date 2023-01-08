@@ -45,17 +45,17 @@
 <br>Натисніть [сюди](https://discord.gg/uBMDfeMDJ3), щоб приєднатися.
 
 # Встановлення мода:
-## Windows/Linux
+## Windows
 **УВАГА:** Перед встановленням українізації ви маєте пересвідчитися, що маєте останню версію гри (Наразі це 1.10), оскільки мод працює лише з нею.
-<br><br>**1.** Переходимо до розділу "[Посилання](https://github.com/INDMops/deltarune-ua#Посилання)" -> "[Завантаження мода](https://github.com/INDMops/deltarune-ua#Завантаження-мода)" та обираємо зручний для себе спосіб завантаження моду, потім обираємо останню версію яка є наразі.
+<br><br>**1.** Переходимо до розділу «[Посилання](https://github.com/INDMops/deltarune-ua#Посилання)» -> «[Завантаження мода](https://github.com/INDMops/deltarune-ua#Завантаження-мода)» та обираємо зручний для себе спосіб завантаження моду, потім обираємо останню версію яка є наразі.
 <br><br>
-**2.** Там завантажуємо "Deltarune.UA.zip", або ж "Deltarune.UA.tar", якщо ви користувач Linux.
+**2.** Там завантажуємо «Deltarune-UA_Windows.zip», «Deltarune-UA_Mac.tar», або ж «Deltarune-UA_Linux.tar», якщо ви користувач Linux, відповідно.
 <br><br>
-**3.** Далі переходимо в "корінь" гри (це можна зробити, натиснувши ПКМ по ярлику на робочому столі і обравши "Відкрити розташування файлу").
+**3.** Далі переходимо в «корінь» гри (це можна зробити, натиснувши ПКМ по ярлику на робочому столі і обравши «Відкрити розташування файлу»).
 <br>
 <img width="75%" alt="How to open the game folder" src="https://media.discordapp.net/attachments/975536726967734272/977991842543054948/unknown.png">
 <br>
-**4.** Переносимо файли (`data.win` та теку `lang`) із завантаженого архіву просто до теки гри, **та обов'язково погоджуємося із заміною!**
+**4.** Переносимо файли (`data` та теку `lang`) із завантаженого архіву просто до теки гри, **та обов'язково погоджуємося із заміною!**
 <br>
 <img width="75%" alt="Move files" src="https://media.discordapp.net/attachments/939569454390603837/956290663828307968/unknown.png">
 <br>
@@ -63,17 +63,17 @@
 
 
 ## Android
-**1.** Переходимо до розділу "[Посилання](https://github.com/yanchukcha/deltarune-ua#Посилання)" -> "[Завантаження мода](https://github.com/yanchukcha/deltarune-ua#Завантаження-мода)" та обираємо зручний для себе спосіб завантаження моду, потім обираємо останню версію яка є наразі.
+**1.** Переходимо до розділу «[Посилання](https://github.com/yanchukcha/deltarune-ua#Посилання)» -> «[Завантаження мода](https://github.com/yanchukcha/deltarune-ua#Завантаження-мода)» та обираємо зручний для себе спосіб завантаження моду, потім обираємо останню версію яка є наразі.
 <br><br>
-**2.** Завантажуємо "deltUA_mobile.apk". У випадку крашів спробуйте встановити "deltUA_mobile_shaderless.apk", НЕ видаляючи перед тим уже встановлену гру.
+**2.** Завантажуємо «deltUA_mobile.apk». У випадку крашів спробуйте встановити «deltUA_mobile_shaderless.apk», НЕ видаляючи перед тим уже встановлену гру.
 <br><br>
-**3.** Тепер заходимо у гру та серед наявних мов обираємо українську. Готово! Приємної гри!
+**3.** Тепер заходимо до гри та серед наявних мов обираємо українську. Готово! Приємної гри!
 <br><br>
 **4.** Перед оновленням застосунку на нову версію, НЕ видаляйте стару, щоб не втратити свої збереження!
 
 ## Повідомлення про проблеми та питання:
 Якщо у вас виникли якісь проблеми із встановленням, чи є якісь інші питання:
-**1.** Заходьте до вкладки "[Issues](https://github.com/yanchukcha/deltarune-ua/issues)" та обирайте "Create new issue".
+**1.** Заходьте до вкладки «[Issues](https://github.com/yanchukcha/deltarune-ua/issues)» та обирайте «Create new issue».
 <br>
 <img width="75%" alt="How create new issue" src="https://media.discordapp.net/attachments/975536726967734272/978027414309462108/unknown.png">
 <br>
@@ -87,8 +87,8 @@
 <br>
 <img width="75%" alt="Issue template" src="https://media.discordapp.net/attachments/975536726967734272/978030001888854056/unknown.png">
 <br>
-**3.** Для завершення натисніть на "Submit new issue", щоб підтвердити створення свого повідомлення. Готово!<br><br>
-Також ви можете особисто звернутися до [yanchukcha](https://discord.com/users/366303194688782336), [danylo](https://discord.com/users/625325289656025089) або [indi_mops](https://discord.com/users/734082410504781854) в Discord.<br>
+**3.** Для завершення натисніть на «Submit new issue», щоб підтвердити створення свого повідомлення. Готово!<br><br>
+Також ви можете особисто звернутися до [yanchukcha](https://discord.com/users/366303194688782336) або [danielle](https://discord.com/users/625325289656025089) в Discord.<br>
 
 # Посилання
 
@@ -124,23 +124,23 @@
 
 ### Інші перекладачі:
 - I.OL
-- Danylo Roczniak
+- DanielleTlumach
 - Семен Згущений
 
-### Організатор та перекладач:
-- Danylo Roczniak: [Discord](https://discord.com/users/625325289656025089), [Steam](https://steamcommunity.com/id/DanyloRoch/), [Twitch](https://www.twitch.tv/danyloroch)
+### Організаторка:
+- DanielleTlumach: [Discord](https://discord.com/users/625325289656025089), [Steam](https://steamcommunity.com/id/DanyloRoch/), [Twitch](https://www.twitch.tv/daniellatlumach)
 
 ### Озвучення Джиявола:
 - LostHuman - [Youtube](https://www.youtube.com/c/WildGamer111) (Голос)
 - yanchukcha (Обробка)
-- Danylo Roczniak (Режисер)
+- DanielleTlumach (Режисерка)
 
 ### Don't Forget - «Не забудь» (Вокальний уривок):
-- Лора Шиґігара (Композитор)
+- Лора Шиґігара (Композиторка)
 - FulminisIctus - [Youtube](https://www.youtube.com/c/FulminisIctus) (Піаніно)
 - neonbonbon - [Twitch](https://www.twitch.tv/neonbonbon?sr=a) (Вокал)
 - yanchukcha (Обробка)
-- Danylo Roczniak (Режисер)
+- DanielleTlumach (Режисерка)
 
 ### Редактори та помічники:
 - [Florentia Mysteria](https://github.com/florik-florentia) (Редактор)
