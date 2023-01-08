@@ -103,7 +103,7 @@
 <br><br>[Nexusmods](https://www.nexusmods.com/deltarune/mods/8?tab=files)<br>
 
 ### Ми в соцмережах
-[YouTube](https://www.youtube.com/channel/UCNG4f8zRUFxw1JvtQV8oh_w/featured)
+[YouTube](https://www.youtube.com/@pereclaw)
 <br><br>[Telegram](https://t.me/Pereclaw)
 <br><br>[TikTok](https://www.tiktok.com/@pereclawteam_ua)
 <br><br>[Наш сервер у Discord](https://discord.gg/uBMDfeMDJ3)
