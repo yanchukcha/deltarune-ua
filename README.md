@@ -98,7 +98,7 @@
 # Посилання
 
 ### Завантаження мода
-[Github](https://github.com/IndiMops/deltarune-ua/releases)
+[Github](https://github.com/yanchukcha/deltarune-ua/releases)
 <br><br>[Google Диск](https://drive.google.com/drive/folders/1ddDw02e9ku1zThp_Ia6moOhIsqJEMlbt?usp=sharing)
 <br><br>[Nexusmods](https://www.nexusmods.com/deltarune/mods/8?tab=files)<br>
 
