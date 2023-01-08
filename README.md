@@ -24,7 +24,7 @@
 
 <details>
     <summary>Детальніше про озвучення</summary>
-    [**голос Джиявола**](https://youtu.be/LrTNVlcmk0M) та [вокальний уривок «**Не забудь**» (ориг. «**Dont Forget**»)](https://youtu.be/EWDl1gN0-c8)).
+    <br>[**голос Джиявола**](https://youtu.be/LrTNVlcmk0M) та [вокальний уривок «**Не забудь**» (ориг. «**Dont Forget**»)](https://youtu.be/EWDl1gN0-c8)).
 </details>
 
 ### Розділ 2: **(ЩЕ НЕ ВИЙШОВ)**
