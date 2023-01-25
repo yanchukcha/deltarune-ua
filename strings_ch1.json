@@ -6157,7 +6157,7 @@
   "obj_npc_room_animated_slash_Other_10_gml_12_0": "\\S8* (Ти знаходиш щось блискуче в темряві.)/",
   "obj_npc_room_animated_slash_Other_10_gml_13_0": "* (“Навіть коли квапишся^1, слід дбати про своє здоров'я.\")/",
   "obj_npc_room_animated_slash_Other_10_gml_14_0": "\\S0* (Ви отримали Захисник Зап'ястя.^1)&* (Тримай ",
-  "obj_npc_room_animated_slash_Other_10_gml_14_1": " щоб пропускати текст.)/%",
+  "obj_npc_room_animated_slash_Other_10_gml_14_1": ", щоб пропускати текст.)/%",
   "obj_npc_room_animated_slash_Other_10_gml_20_0": "* (Нічого.)/%",
   "obj_npc_sign_slash_Create_0_gml_45_0": "Золота",
   "obj_npc_sign_slash_Create_0_gml_50_0": "Жовта",
