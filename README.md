@@ -79,7 +79,7 @@
 ## Повідомлення про проблеми та питання:
 Якщо у вас виникли якісь проблеми із встановленням, чи є якісь інші питання:
 <br>
-**1.** Заходьте до вкладки «[Issues](https://github.com/yanchukcha/deltarune-ua/issues)» та обирайте «Create new issue».
+**1.** Заходьте до вкладки «[Issues](https://github.com/yanchukcha/deltarune-ua/issues)» та натисніть «New issue».
 <br>
 <img width="75%" alt="How create new issue" src="https://media.discordapp.net/attachments/975536726967734272/978027414309462108/unknown.png">
 <br>
