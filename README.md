@@ -86,7 +86,7 @@
 <br>
 <img width="75%" alt="New issue tab" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083933873211183205/2023-03-11_023913.png">
 <br>
-**2.** За допомогою готового шаблону з інструкціями [створіть](https://github.com/IndiMops/deltarune-ua/issues/new/choose) нове повідомлення про проблему та/або знайдену помилку в перекладі, натиснувши «Get Started»
+**2.** За допомогою готового шаблону з інструкціями [створіть](https://github.com/IndiMops/deltarune-ua/issues/new/choose) нове повідомлення про проблему та/або знайдену помилку в перекладі, натиснувши «Get started»
 <br>
 <img width="75%" alt="Issue template" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083934626176847932/2023-03-11_024113.png">
 <br>
