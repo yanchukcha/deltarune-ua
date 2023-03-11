@@ -81,17 +81,14 @@
 <br>
 **1.** Зайдіть до вкладки «[Issues](https://github.com/yanchukcha/deltarune-ua/issues)» та натисніть «New issue».
 <br>
-<img width="75%" alt="How create new issue" src="https://media.discordapp.net/attachments/975536726967734272/978027414309462108/unknown.png">
+<img width="75%" alt="Issues tab" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083933849026842644/2023-03-11_023409.png">
 <br>
 <br>
-<img width="75%" alt="Сreate new issue" src="https://media.discordapp.net/attachments/975536726967734272/978029126399176754/unknown.png">
+<img width="75%" alt="New issue tab" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083933873211183205/2023-03-11_023913.png">
 <br>
-**2.** За допомогою готового шаблону з інструкціями [створіть](https://github.com/IndiMops/deltarune-ua/issues/new/choose) нове повідомлення про проблему та/або знайдену помилку в перекладі.
+**2.** За допомогою готового шаблону з інструкціями [створіть](https://github.com/IndiMops/deltarune-ua/issues/new/choose) нове повідомлення про проблему та/або знайдену помилку в перекладі, натиснувши «Get Started»
 <br>
-<img width="75%" alt="Create issue by template" src="https://media.discordapp.net/attachments/975536726967734272/978029613928284220/unknown.png">
-<br>
-<br>
-<img width="75%" alt="Issue template" src="https://media.discordapp.net/attachments/975536726967734272/978030001888854056/unknown.png">
+<img width="75%" alt="Issue template" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083934626176847932/2023-03-11_024113.png">
 <br>
 **3.** Для завершення натисніть на «Submit new issue», щоб підтвердити створення свого повідомлення. Готово!<br><br>
 
