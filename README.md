@@ -41,9 +41,9 @@
 ## Deltarune
 **P.S** : Якщо ви стримите або нумограєте гру з нашою українізацією, просимо вас вказати авторів перекладу та/або оригінальних творців гри нижче.
 <br><br>
-(**UKR**) Автор гри/Власник прав на гру: Тобі Фокс<br>(**ENG**) Copyright/Author: TobyFox
+(**UKR**) Автор гри/Власник прав на гру: Тобі Фокс<br>(**ENG**) Copyright/Deltarune Author: TobyFox
 <br><br>
-(**UKR**) Оригінальні образи та графіка : [Теммі Чанґ](https://twitter.com/tuyoki) та [Kanotynes](https://twitter.com/kanotynes)<br>(**ENG**) Art: [Temmie Chang](https://twitter.com/tuyoki) & [Kanotynes](https://twitter.com/kanotynes)
+(**UKR**) Оригінальні образи та графіка : [Теммі Чанґ](https://twitter.com/tuyoki) та [Kanotynes](https://twitter.com/kanotynes)<br>(**ENG**) Original Art Designer: [Temmie Chang](https://twitter.com/tuyoki) & [Kanotynes](https://twitter.com/kanotynes)
 <br><br>[Саму гру можна безплатно встановити з офіційних джерел, які можна знайти за цим посиланням.](https://deltarune.com/)
 
 **Також ми маємо свою українську спільноту гри Deltarune в Discord**
