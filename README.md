@@ -136,14 +136,14 @@
 ### Озвучення Джиявола:
 - LostHuman - [Youtube](https://www.youtube.com/c/WildGamer111) (Голос)
 - yanchukcha (Обробка)
-- DanielleTlumach (Режисерка)
+- DanielleTlumach (Режисерування)
 
 ### Don't Forget - «Не забудь» (Вокальний уривок):
 - Лора Шиґігара (Композиторка)
-- FulminisIctus - [Youtube](https://www.youtube.com/c/FulminisIctus) (Піаніно)
+- FulminisIctus - [Youtube](https://www.youtube.com/c/FulminisIctus) (Інструментал)
 - neonbonbon - [Twitch](https://www.twitch.tv/neonbonbon?sr=a) (Вокал)
 - yanchukcha (Обробка)
-- DanielleTlumach (Режисерка)
+- DanielleTlumach (Режисерування)
 
 ### Редактори та помічники:
 - [Florentia Mysteria](https://github.com/florik-florentia) (Редактор)
