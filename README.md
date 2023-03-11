@@ -46,7 +46,7 @@
 (**UKR**) Оригінальні образи та графіка : [Теммі Чанґ](https://twitter.com/tuyoki) та [Kanotynes](https://twitter.com/kanotynes)<br>(**ENG**) Art: [Temmie Chang](https://twitter.com/tuyoki) & [Kanotynes](https://twitter.com/kanotynes)
 <br><br>[Саму гру можна безкоштовно встановити з офіційних джерел, які можна знайти за цим посиланням.](https://deltarune.com/)
 
-**Також ми маємо свою українську спільноту гри Deltarune в Discord)**
+**Також ми маємо свою українську спільноту гри Deltarune в Discord**
 <br>Натисніть [сюди](https://discord.gg/uBMDfeMDJ3), щоб приєднатися.
 
 # Встановлення мода:
