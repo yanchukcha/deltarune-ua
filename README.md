@@ -79,14 +79,14 @@
 ## Повідомлення про проблеми та питання:
 Якщо у вас виникли якісь проблеми із встановленням, чи є якісь інші питання:
 <br>
-**1.** Заходьте до вкладки «[Issues](https://github.com/yanchukcha/deltarune-ua/issues)» та натисніть «New issue».
+**1.** Зайдіть до вкладки «[Issues](https://github.com/yanchukcha/deltarune-ua/issues)» та натисніть «New issue».
 <br>
 <img width="75%" alt="How create new issue" src="https://media.discordapp.net/attachments/975536726967734272/978027414309462108/unknown.png">
 <br>
 <br>
 <img width="75%" alt="Сreate new issue" src="https://media.discordapp.net/attachments/975536726967734272/978029126399176754/unknown.png">
 <br>
-**2.** За допомогою готового шаблону з інструкціями [створіть](https://github.com/IndiMops/deltarune-ua/issues/new/choose) нове повідомлення про проблему та/або знайдену помилку в перекладі чи питання щодо нього.
+**2.** За допомогою готового шаблону з інструкціями [створіть](https://github.com/IndiMops/deltarune-ua/issues/new/choose) нове повідомлення про проблему та/або знайдену помилку в перекладі.
 <br>
 <img width="75%" alt="Create issue by template" src="https://media.discordapp.net/attachments/975536726967734272/978029613928284220/unknown.png">
 <br>
@@ -94,7 +94,8 @@
 <img width="75%" alt="Issue template" src="https://media.discordapp.net/attachments/975536726967734272/978030001888854056/unknown.png">
 <br>
 **3.** Для завершення натисніть на «Submit new issue», щоб підтвердити створення свого повідомлення. Готово!<br><br>
-Також ви можете особисто звернутися до [yanchukcha](https://discord.com/users/366303194688782336) або [danielle](https://discord.com/users/625325289656025089) в Discord.<br>
+
+Також ви можете особисто звернутися до [yanchukcha](https://discord.com/users/366303194688782336) або [danielle](https://discord.com/users/625325289656025089) у Discord, або створити новий допис в каналі «#баґи-та-критика» на самому [сервері](https://discord.gg/uBMDfeMDJ3).<br>
 
 # Посилання
 
