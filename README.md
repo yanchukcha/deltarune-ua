@@ -81,7 +81,7 @@
 <br>
 **1.** Зайдіть до вкладки «[Issues](https://github.com/yanchukcha/deltarune-ua/issues)» та натисніть «New issue».
 <br>
-<img width="75%" alt="Issues tab" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083933849026842644/2023-03-11_023409.png">
+<img width="50%" alt="Issues tab" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083933849026842644/2023-03-11_023409.png">
 <br>
 <br>
 <img width="75%" alt="New issue tab" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083933873211183205/2023-03-11_023913.png">
