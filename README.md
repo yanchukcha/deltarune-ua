@@ -137,7 +137,6 @@
 - DanielleTlumach (Режисерування)
 
 ### Don't Forget - «Не забудь» (Вокальний уривок):
-- Лора Шиґігара (Композиторка)
 - FulminisIctus - [Youtube](https://www.youtube.com/c/FulminisIctus) (Інструментал)
 - neonbonbon - [Twitch](https://www.twitch.tv/neonbonbon?sr=a) (Вокал)
 - yanchukcha (Обробка)
