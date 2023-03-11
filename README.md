@@ -118,7 +118,7 @@
 
 [Нумограї](https://www.youtube.com/playlist?list=PLI3ZhbtyRn3WqPKDTtvWKBxLXdrsjXhbK)
 
-# Автори
+# Автори перекладу
 
 ## Перекладацька команда «Pereclaw»:
 
