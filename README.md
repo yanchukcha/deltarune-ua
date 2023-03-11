@@ -43,7 +43,7 @@
 <br><br>
 (**UKR**) Автор гри/Власник прав на гру: Тобі Фокс<br>(**ENG**) Copyright/Deltarune Author: TobyFox
 <br><br>
-(**UKR**) Оригінальні образи та графіка : [Теммі Чанґ](https://twitter.com/tuyoki) та [Kanotynes](https://twitter.com/kanotynes)<br>(**ENG**) Original Art Designer: [Temmie Chang](https://twitter.com/tuyoki) & [Kanotynes](https://twitter.com/kanotynes)
+(**UKR**) Оригінальні образи та графіка : [Теммі Чанґ](https://twitter.com/tuyoki) та [Kanotynes](https://twitter.com/kanotynes)<br>(**ENG**) Original Art Designers: [Temmie Chang](https://twitter.com/tuyoki) & [Kanotynes](https://twitter.com/kanotynes)
 <br><br>[Саму гру можна безплатно встановити з офіційних джерел, які можна знайти за цим посиланням.](https://deltarune.com/)
 
 **Також ми маємо свою українську спільноту гри Deltarune в Discord**
