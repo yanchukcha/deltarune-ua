@@ -4,15 +4,15 @@
 
 <details>
     <summary>Приклади перекладу:</summary>
-    <img width="75%" alt="Screenshots translation" src="https://cdn.discordapp.com/attachments/975536726967734272/1033464721795453039/20221020185357_2.jpg">
-    <img width="75%" alt="Screenshots translation" src="https://cdn.discordapp.com/attachments/975536726967734272/1033464643630415993/20221020181207_1.jpg">
-    <img width="75%" alt="Screenshots translation" src="https://cdn.discordapp.com/attachments/718188236433916026/974783328664309880/unknown.png">
-    <img width="75%" alt="Screenshots translation" src="https://cdn.discordapp.com/attachments/718188236433916026/974782952020013116/unknown.png">
-    <img width="75%" alt="Screenshots translation" src="https://cdn.discordapp.com/attachments/718188236433916026/972812056833183794/unknown.png">
-    <img width="75%" alt="Screenshots translation" src="https://cdn.discordapp.com/attachments/718188236433916026/972812387960909895/unknown.png">
-    <img width="75%" alt="Screenshots translation" src="https://cdn.discordapp.com/attachments/718188236433916026/956654495440437278/unknown.png">
-    <img width="75%" alt="Screenshots translation" src="https://cdn.discordapp.com/attachments/718188236433916026/972846037154791435/unknown.png">
-    <img width="75%" alt="Screenshots translation" src="https://cdn.discordapp.com/attachments/718188236433916026/974323245497061416/unknown.png">
+    <img width="75%" alt="Localization screenshots" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083942836065542154/20221020185357_2.jpg">
+    <img width="75%" alt="Localization screenshots" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083942878599979109/20221020181207_1.jpg">
+    <img width="75%" alt="Localization screenshots" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083943230401413244/lancers_sign.png">
+    <img width="75%" alt="Localization screenshots" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083945036883959908/Equip_menu.png">
+    <img width="75%" alt="Localization screenshots" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083945063182254100/Ruddins_battle.png">
+    <img width="75%" alt="Localization screenshots" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083945097906896996/Topchef.png">
+    <img width="75%" alt="Localization screenshots" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083945127124422726/Susie_dialogue.png">
+    <img width="75%" alt="Localization screenshots" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083945162293653545/Bloxer_battle.png">
+    <img width="75%" alt="Localization screenshots" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083945183378411560/Pacifying.png">
 </details>
 
 ## Прогрес перекладу
@@ -58,11 +58,11 @@
 **3.** Далі перейдіть в «корінь» гри (це можна зробити, натиснувши ПКМ по ярлику на робочому столі та обравши «Відкрити розташування файлу» на Windows).
 На Mac знайдіть саму програму DELTARUNE, натисніть ПКМ на неї -> «Показати зміст пакета» -> «Contents» -> «Resources».
 <br>
-<img width="75%" alt="How to open the game folder" src="https://media.discordapp.net/attachments/975536726967734272/977991842543054948/unknown.png">
+<img width="75%" alt="How to open the game folder" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083941480500039770/How_to_open_game_folder.png">
 <br>
 **4.** Перенесіть файли (`data` та теку `lang`) із завантаженого архіву просто до теки гри, та **ОБОВ'ЯЗКОВО** погодьтесь із заміною!
 <br>
-<img width="75%" alt="Move files" src="https://media.discordapp.net/attachments/939569454390603837/956290663828307968/unknown.png">
+<img width="75%" alt="Move files" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083941491078082580/Move_files.png">
 <br>
 **5.** Тепер зайдіть до гри та серед наявних мов виберіть українську. Готово! Приємної гри!
 
