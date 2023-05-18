@@ -2,6 +2,8 @@
 
 Українська локалізація гри [Deltarune](https://deltarune.com/).<br>Переклад є особливим тому, що робиться українцями.<br>Ви не зустрінете в діалогах машинного перекладу - **лише живий!**<br>Наш переклад перефразовує англомовні жарти на зрозумілі для українців, тому вам не буде нудно проходити гру.
 
+
+
 <details>
     <summary>Приклади перекладу:</summary>
     <img width="75%" alt="Localization screenshots" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083942836065542154/20221020185357_2.jpg">
@@ -119,6 +121,11 @@
 # Автори перекладу
 
 ## Перекладацька команда «Pereclaw»
+
+<p>
+        <a href="https://discord.gg/uBMDfeMDJ3"><img alt="Discord" src="https://img.shields.io/discord/975491034823917658?label=Discord&logo=discord&style=social"></a>
+        <a href="https://www.youtube.com/@pereclaw"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCNG4f8zRUFxw1JvtQV8oh_w?label=Pereclaw&style=social"></a>
+        <a href="https://t.me/pereclawteam"><img alt="Telegram" src="https://img.shields.io/static/v1?link=https://t.me/pereclawteam&label=Pereclaw&style=social&logo=telegram&message=локалізація ігор"></a>
 
 ### Головний перекладач:
 - yanchukcha: [Discord](https://discord.com/users/366303194688782336)
