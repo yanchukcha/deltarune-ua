@@ -25,7 +25,7 @@
 
 <details>
     <summary>Детальніше про озвучення</summary>
-    <br>Голос Джиявола (https://youtu.be/LrTNVlcmk0M) та вокальний уривок «Не забудь» (ориг. «Dont Forget») (https://youtu.be/EWDl1gN0-c8).
+    <br>Голос Джиявола (https://youtu.be/LrTNVlcmk0M) та вокальний уривок “Не забудь” (ориг. “Dont Forget”) (https://youtu.be/EWDl1gN0-c8).
 </details>
 
 ### Розділ 2: **(ЩЕ НЕ ВИЙШОВ)**
@@ -53,12 +53,12 @@
 # Встановлення мода:
 ## Windows/Mac
 **УВАГА:** Перед встановленням українізації ви повинні пересвідчитися, що маєте останню версію гри (Наразі це 1.10), оскільки мод працює лише з нею.
-<br><br>**1.** Перейдіть до розділу «[Посилання](https://github.com/yanchukcha/deltarune-ua#посилання)» -> «[Завантаження мода](https://github.com/yanchukcha/deltarune-ua#Завантаження-мода)» та виберіть зручний для себе спосіб завантаження моду, а потім — останню версію локалізації, яка є наразі.
+<br><br>**1.** Перейдіть до розділу “[Посилання](https://github.com/yanchukcha/deltarune-ua#посилання)” -> “[Завантаження мода](https://github.com/yanchukcha/deltarune-ua#Завантаження-мода)” та виберіть зручний для себе спосіб завантаження моду, а потім — останню версію локалізації, яка є наразі.
 <br><br>
-**2.** Там завантажте «Deltarune-UA_Windows.zip», або ж «Deltarune-UA_Mac.zip», якщо ви користувач Mac, відповідно.
+**2.** Там завантажте “Deltarune-UA_Windows.zip”, або ж “Deltarune-UA_Mac.zip”, якщо ви користувач Mac, відповідно.
 <br><br>
-**3.** Далі перейдіть в «корінь» гри (це можна зробити, натиснувши ПКМ по ярлику на робочому столі та обравши «Відкрити розташування файлу» на Windows).
-На Mac знайдіть саму програму DELTARUNE, натисніть ПКМ на неї -> «Показати зміст пакета» -> «Contents» -> «Resources».
+**3.** Далі перейдіть в “корінь” гри (це можна зробити, натиснувши ПКМ по ярлику на робочому столі та обравши “Відкрити розташування файлу” на Windows).
+На Mac знайдіть саму програму DELTARUNE, натисніть ПКМ на неї -> “Показати зміст пакета” -> “Contents” -> “Resources”.
 <br>
 <img width="75%" alt="How to open the game folder" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083941480500039770/How_to_open_game_folder.png">
 <br>
@@ -70,9 +70,9 @@
 
 
 ## Android
-**1.** Перейдіть до розділу «[Посилання](https://github.com/yanchukcha/deltarune-ua#Посилання)» -> «[Завантаження мода](https://github.com/yanchukcha/deltarune-ua#Завантаження-мода)» та виберіть зручний для себе спосіб завантаження моду, а потім — останню версію локалізації, яка є наразі.
+**1.** Перейдіть до розділу “[Посилання](https://github.com/yanchukcha/deltarune-ua#Посилання)” -> “[Завантаження мода](https://github.com/yanchukcha/deltarune-ua#Завантаження-мода)” та виберіть зручний для себе спосіб завантаження моду, а потім — останню версію локалізації, яка є наразі.
 <br><br>
-**2.** Завантажте та встановіть «deltUA_mobile.apk». У разі крашів спробуйте встановити «deltUA_mobile_shaderless.apk», НЕ видаляючи перед тим уже встановлену гру.
+**2.** Завантажте та встановіть “deltUA_mobile.apk”. У разі крашів спробуйте встановити “deltUA_mobile_shaderless.apk”, НЕ видаляючи перед тим уже встановлену гру.
 <br><br>
 **3.** Тепер зайдіть до гри та серед наявних мов виберіть українську. Готово! Приємної гри!
 <br><br>
@@ -81,20 +81,20 @@
 ## Повідомлення про проблеми та питання:
 Якщо у вас виникли якісь проблеми із встановленням, чи є якісь інші питання:
 <br>
-**1.** Зайдіть до вкладки «[Issues](https://github.com/yanchukcha/deltarune-ua/issues)» та натисніть «New issue».
+**1.** Зайдіть до вкладки “[Issues](https://github.com/yanchukcha/deltarune-ua/issues)” та натисніть “New issue”.
 <br>
 <img width="50%" alt="Issues tab" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083933849026842644/2023-03-11_023409.png">
 <br>
 <br>
 <img width="75%" alt="New issue tab" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083933873211183205/2023-03-11_023913.png">
 <br>
-**2.** За допомогою готового шаблону з інструкціями [створіть](https://github.com/IndiMops/deltarune-ua/issues/new/choose) нове повідомлення про проблему та/або знайдену помилку в перекладі, натиснувши «Get started»
+**2.** За допомогою готового шаблону з інструкціями [створіть](https://github.com/IndiMops/deltarune-ua/issues/new/choose) нове повідомлення про проблему та/або знайдену помилку в перекладі, натиснувши “Get started”
 <br>
 <img width="75%" alt="Issue template" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083934626176847932/2023-03-11_024113.png">
 <br>
-**3.** Для завершення натисніть на «Submit new issue», щоб підтвердити створення свого повідомлення. Готово!<br><br>
+**3.** Для завершення натисніть на “Submit new issue”, щоб підтвердити створення свого повідомлення. Готово!<br><br>
 
-Також ви можете особисто звернутися до [yanchukcha](https://discord.com/users/366303194688782336) або [danielle](https://discord.com/users/625325289656025089) у Discord, або створити новий допис в каналі «#баґи-та-критика» на самому [сервері](https://discord.gg/uBMDfeMDJ3).<br>
+Також ви можете особисто звернутися до [yanchukcha](https://discord.com/users/366303194688782336) або [danielle](https://discord.com/users/625325289656025089) у Discord, або створити новий допис в каналі “#баґи-та-критика” на самому [сервері](https://discord.gg/uBMDfeMDJ3).<br>
 
 # Посилання
 
@@ -120,7 +120,7 @@
 
 # Автори перекладу
 
-## Перекладацька команда «Pereclaw»
+## Перекладацька команда “Pereclaw”
 
 <p>
         <a href="https://discord.gg/uBMDfeMDJ3"><img alt="Discord" src="https://img.shields.io/discord/975491034823917658?label=Discord&logo=discord&style=social"></a>
@@ -143,7 +143,7 @@
 - yanchukcha (Обробка)
 - DanielleTlumach (Режисерування)
 
-### Don't Forget - «Не забудь» (Вокальний уривок):
+### Don't Forget - “Не забудь” (Вокальний уривок):
 - FulminisIctus - [Youtube](https://www.youtube.com/c/FulminisIctus) (Інструментал)
 - neonbonbon - [Twitch](https://www.twitch.tv/neonbonbon?sr=a) (Вокал)
 - yanchukcha (Обробка)
