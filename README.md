@@ -114,9 +114,9 @@
 <br><br>**Якщо вам цікаво, є записи проходження перекладу 1-го розділу українськими стрімерами та нумограйниками (летсплеєрами), які ви можете переглянути за цими посиланнями:**
 
 ### YouTube
-[Записи стримів](https://youtube.com/playlist?list=PLI3ZhbtyRn3WOY2v8I69CT-cIcrp6tVD4)
+[Записи стримів](https://www.youtube.com/playlist?list=PLIoSWbHAMmkG7FvEuv_QZ13CTOCwt-7Ii)
 
-[Нумограї](https://www.youtube.com/playlist?list=PLI3ZhbtyRn3WqPKDTtvWKBxLXdrsjXhbK)
+[Нумограї](https://www.youtube.com/playlist?list=PLIoSWbHAMmkFPrPCSkhMzMh5xzLR5ewY8)
 
 # Автори перекладу
 
