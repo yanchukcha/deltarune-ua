@@ -1520,7 +1520,7 @@
     "obj_treasure_room_slash_Other_10_gml_14_0": "* (Не відчиняється.)/%",
     "obj_treasure_room_slash_Other_10_gml_18_0": "* (Скриня порожня.)/%",
     "obj_treasure_room_slash_Other_10_gml_65_0": "* \\@@(Ти відкриваєш скриню.^1)&* (Всередині лежить \\cY~1\\cW.)/",
-    "obj_treasure_room_slash_Other_10_gml_76_0": "* \\@@\\@@(\\cY~1\\cW, покладено до ~2\\cW.)",
+    "obj_treasure_room_slash_Other_10_gml_76_0": "* \\@@\\@@(\\cY~1\\cW покладено до ~2\\cW.)",
     "obj_treasure_room_slash_Other_10_gml_83_0": "* (Але серед ~2\\cW не лишилось місця.)",
     "obj_unusedclassevent_slash_Step_0_gml_16_0": "* Wh..^1. what happened!^2?&* I can't see anything!!/%",
     "obj_unusedclassevent_slash_Step_0_gml_52_0": "* Hey^1, WATCH IT!/%",
