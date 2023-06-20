@@ -6332,5 +6332,13 @@
   "button_scale": "Розмір кнопки",
   "joystick_edit_tip": "Затисність порожнє місце на екрані,\nщоб повернути початкові позиції.\n\n Натисність тричі, щоб зберегти й вийти.",
   "joystick_resetting": "Повертаємося...",
-  "credits_secret_mode": "Таємний режим: KuroSora & BlueSheep3"
+  "credits_secret_mode": "Таємний режим: KuroSora & BlueSheep3",
+  "played_text": "Ця програма призначена для гравців,#що вже знайомі з UNDERTALE.",
+  "check_text": "Хотіли б спершу спробувати UNDERTALE?",
+  "undertale_page": "Відвідати сторінку UNDERTALE#в ",
+  "shop_option_yes": "Так",
+  "shop_option_no": "Ні",
+  "shop_text_ps": "“Крамниця PlayStation\"",
+  "check_undertale": "Спробувати UNDERTALE",
+  "start_dr": "Почати DELTARUNE"
 }
