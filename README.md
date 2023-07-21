@@ -96,7 +96,7 @@ https://github.com/yanchukcha/deltarune-ua/assets/83290351/932e30af-a491-4bbf-bc
 <br>
 **3.** Для завершення натисніть на “Submit new issue”, щоб підтвердити створення свого повідомлення. Готово!<br><br>
 
-Також ви можете особисто звернутися до [yanchukcha](https://discord.com/users/366303194688782336) або [danielle](https://discord.com/users/625325289656025089) у Discord, або створити новий допис в каналі “#баґи-та-критика” на самому [сервері](https://discord.gg/uBMDfeMDJ3).<br>
+Також ви можете особисто звернутися до [yanchukcha](https://discord.com/users/366303194688782336) або [danielle](https://discord.com/users/625325289656025089) у Discord, чи створити новий допис в каналі “#баґи-та-критика” на самому [сервері](https://discord.gg/uBMDfeMDJ3).<br>
 
 # Посилання
 
