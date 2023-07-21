@@ -60,7 +60,7 @@ https://github.com/yanchukcha/deltarune-ua/assets/83290351/932e30af-a491-4bbf-bc
 **2.** Там завантажте “Deltarune-UA_Windows.zip”, або ж “Deltarune-UA_Mac.zip”, якщо ви користувач Mac, відповідно.
 <br><br>
 **3.** Далі перейдіть в “корінь” гри (це можна зробити, натиснувши ПКМ по ярлику на робочому столі та обравши “Відкрити розташування файлу” на Windows).
-На Mac знайдіть саму програму DELTARUNE, натисніть ПКМ на неї -> “Показати зміст пакета” -> “Contents” -> “Resources”.
+<br>На Mac знайдіть саму програму DELTARUNE, натисніть ПКМ на неї -> “Показати зміст пакета” -> “Contents” -> “Resources”.
 <br>
 <img width="75%" alt="How to open the game folder" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083941480500039770/How_to_open_game_folder.png">
 <br>
