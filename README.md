@@ -15,6 +15,11 @@
     <img width="75%" alt="Localization screenshots" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083945127124422726/Susie_dialogue.png">
     <img width="75%" alt="Localization screenshots" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083945162293653545/Bloxer_battle.png">
     <img width="75%" alt="Localization screenshots" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083945183378411560/Pacifying.png">
+    <img width="75%" alt="Localization screenshots" src="https://cdn.discordapp.com/attachments/1083924171580510228/1131693520407756850/image_5.png">
+    <img width="75%" alt="Localization screenshots" src="https://cdn.discordapp.com/attachments/1083924171580510228/1131693711819034755/image_4.png">
+    <img width="75%" alt="Localization screenshots" src="https://cdn.discordapp.com/attachments/1083924171580510228/1131693903662289038/image_6.png">
+    <img width="75%" alt="Localization screenshots" src="https://cdn.discordapp.com/attachments/1083924171580510228/1131694255732162611/image_3.png">
+    <img width="75%" alt="Localization screenshots" src="https://cdn.discordapp.com/attachments/1083924171580510228/1131694291320836166/image_1.png">
 </details>
 
 ## Прогрес перекладу
