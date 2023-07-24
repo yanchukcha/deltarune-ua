@@ -155,7 +155,7 @@ https://github.com/yanchukcha/deltarune-ua/assets/83290351/932e30af-a491-4bbf-bc
 - DanielleTlumach (Режисерування)
 
 ### Озвучення Спамтона:
-- nini та AevilJ (Інструментал)
+- nini - [Youtube](https://www.youtube.com/@reiiini) та AevilJ - [Youtube](https://www.youtube.com/@AevilJ) (Інструментал)
 - Ілля Янчицький (Голос)
 - yanchukcha (Обробка)
 - yanchukcha та Roavello (Міксування)
