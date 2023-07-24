@@ -120,8 +120,8 @@ https://github.com/yanchukcha/deltarune-ua/assets/83290351/932e30af-a491-4bbf-bc
 <br><br>[Наш сервер у Discord](https://discord.gg/uBMDfeMDJ3)
 
 # Новини та оголошення
-Переклад 1-го розділу повністю готовий, але досі радимо лишати відгуки щодо перекладу!<br>Внести у нього зміни потребує мінімальних зусиль, тому не соромтеся.
-<br><br>**Якщо вам цікаво, є записи проходження перекладу 1-го розділу українськими стрімерами та нумограйниками (летсплеєрами), які ви можете переглянути за цими посиланнями:**
+перший та другий розділ закінчено, але досі радимо лишати відгуки щодо перекладу!<br>Внести в нього зміни потребує мінімальних зусиль, тому не соромтеся.
+<br><br>**Якщо вам цікаво, є записи проходження перекладу 1-го та 2-го розділів українськими стрімерами та нумограйниками (летсплеєрами), які ви можете переглянути за цими посиланнями:**
 
 ### YouTube
 [Записи стримів](https://www.youtube.com/playlist?list=PLIoSWbHAMmkG7FvEuv_QZ13CTOCwt-7Ii)
@@ -137,13 +137,14 @@ https://github.com/yanchukcha/deltarune-ua/assets/83290351/932e30af-a491-4bbf-bc
         <a href="https://www.youtube.com/@pereclaw"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCNG4f8zRUFxw1JvtQV8oh_w?label=Pereclaw&style=social"></a>
         <a href="https://t.me/pereclawteam"><img alt="Telegram" src="https://img.shields.io/static/v1?link=https://t.me/pereclawteam&label=Pereclaw&style=social&logo=telegram&message=локалізація ігор"></a>
 
-### Головний перекладач:
+### Основні перекладачі:
 - yanchukcha: [Discord](https://discord.com/users/366303194688782336)
+- DanielleTlumach
+- IOLEKS
 
 ### Інші перекладачі:
-- IOLEKS
-- DanielleTlumach
 - Семен Згущений
+- Paralvion
 
 ### Організаторка:
 - DanielleTlumach: [Discord](https://discord.com/users/625325289656025089), [Steam](https://steamcommunity.com/id/DanyloRoch/), [Twitch](https://www.twitch.tv/daniellatlumach)
@@ -153,13 +154,36 @@ https://github.com/yanchukcha/deltarune-ua/assets/83290351/932e30af-a491-4bbf-bc
 - yanchukcha (Обробка)
 - DanielleTlumach (Режисерування)
 
+### Озвучення Спамтона:
+- nini та AevilJ (Інструментал)
+- Ілля Янчицький (Голос)
+- yanchukcha (Обробка)
+- yanchukcha та Roavello (Міксування)
+- DanielleTlumach (Режисерування)
+
+### Другорядне озвучення:
+- Ілля Янчицький (“В БІЙ!”)
+- Мар'яна Янкевич (“РАУНД X!”)
+- TTS Олена (Диспетчерка)
+- FL Studio TTS (Кнопки літер)
+
 ### Don't Forget - “Не забудь” (Вокальний уривок):
 - FulminisIctus - [Youtube](https://www.youtube.com/c/FulminisIctus) (Інструментал)
 - neonbonbon - [Twitch](https://www.twitch.tv/neonbonbon?sr=a) (Вокал)
 - yanchukcha (Обробка)
 - DanielleTlumach (Режисерування)
 
-### Редактори та помічники:
-- [Florentia Mysteria](https://github.com/florik-florentia) (Редактор)
+### Until Next Time - “До зустрічі”
+- AlexGamingSW (Інструментал)
+- neonbonbon (Вокал)
+- Napthablook та yanchukcha (Міксування)
+
+### Інші редактори та помічники:
+- [Florentia Mysteria](https://github.com/florik-florentia) (Ранні версії перекладу + Редактор)
 - [INDMops](https://github.com/IndiMops) (Помічник)
+- Ростік (Натхнення)
 - Яйойщик
+
+### Тестувальники:
+- INDMops (1 розділ)
+- TheBigOneUA (1&2 розділи)
