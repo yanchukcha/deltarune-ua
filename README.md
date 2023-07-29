@@ -186,4 +186,7 @@ https://github.com/yanchukcha/deltarune-ua/assets/83290351/932e30af-a491-4bbf-bc
 
 ### Тестувальники:
 - INDMops (1 розділ)
-- TheBigOneUA (1&2 розділи)
+- TheBigOneUA (1&2 розділи) 
+
+### Розробники порта для Android:
+- https://angelapuzzle.wixsite.com/dt-port
