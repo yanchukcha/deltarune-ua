@@ -117,7 +117,7 @@ https://github.com/yanchukcha/deltarune-ua/assets/83290351/932e30af-a491-4bbf-bc
 [YouTube](https://www.youtube.com/@pereclaw)
 <br><br>[Telegram](https://t.me/Pereclaw)
 <br><br>[TikTok](https://www.tiktok.com/@pereclawteam_ua)
-<br><br>[Наш сервер у Discord](https://discord.gg/uBMDfeMDJ3)
+<br><br>[Сервер DR/UT Україна у Discord](https://discord.gg/uBMDfeMDJ3)
 
 # Новини та оголошення
 перший та другий розділ закінчено, але досі радимо лишати відгуки щодо перекладу!<br>Внести в нього зміни потребує мінімальних зусиль, тому не соромтеся.
