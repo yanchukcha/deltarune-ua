@@ -128,7 +128,7 @@ https://github.com/yanchukcha/deltarune-ua/assets/83290351/932e30af-a491-4bbf-bc
 
 [Нумограї](https://www.youtube.com/playlist?list=PLIoSWbHAMmkFPrPCSkhMzMh5xzLR5ewY8)
 
-# Автори перекладу
+# Автори
 
 ## Перекладацька команда “Pereclaw”
 
