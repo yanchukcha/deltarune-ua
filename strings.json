@@ -12373,7 +12373,7 @@
     "obj_ch2_scene25_slash_Step_0_gml_969_0": "\\ED* Ви..^1. Ви.../%",
     "obj_gigaqueen_enemy_slash_Step_0_gml_73_0_b": "Кріс Сьюзі&Інший Хлопець/%",
     "obj_gigaqueen_enemy_slash_Step_0_gml_74_0": "Думаєте, Що&На Цьому Кінець?/%",
-    "obj_gigaqueen_enemy_slash_Step_0_gml_75_0": "Надзвичайно Повільних&Гігантських Бейсбольних&М'ячів Які Очевидно&Можна Відбити&В Мене Ще Повно/%",
+    "obj_gigaqueen_enemy_slash_Step_0_gml_75_0": "Надзвичайно Повільних&Гігантських Бейсбольних&М'ячів Які Очевидно&Можна Відбити В Мене&Ще Повно/%",
     "obj_gigaqueen_enemy_slash_Step_0_gml_121_0_b": "Ви Показали Себе Справді&Гідними Суперниками/%",
     "obj_gigaqueen_enemy_slash_Step_0_gml_122_0": "Ви Заслужили Право&На Нагадування Щодо&Справжнього Значення&Вашої Бойової Машини/%",
     "obj_gigaqueen_enemy_slash_Step_0_gml_123_0_b": "Надерти Власний Зад/%",
@@ -12858,6 +12858,6 @@
 	"android_room_borders_3": "Повна",
 	"android_room_tip": "~1 - Взаємодія, ~2 - Назад, ~3 - Керування",
     "credits_secret_mode": "Таємний режим: KuroSora & BlueSheep3",
-	"teststring_fortesting": "текстмашина",
-	"faceselect_fortesting": "5"
+	"teststring_fortesting": "\\E6* \\@@Врешті-решт^1, як ми будемо до них ставитись - усе й вирішить./",
+	"faceselect_fortesting": "2"
 }
