@@ -1520,8 +1520,8 @@
     "obj_treasure_room_slash_Other_10_gml_14_0": "* (Не відчиняється.)/%",
     "obj_treasure_room_slash_Other_10_gml_18_0": "* (Скриня порожня.)/%",
     "obj_treasure_room_slash_Other_10_gml_65_0": "* \\@@(Ти відкриваєш скриню.^1)&* (Всередині лежить \\cY~1\\cW.)/",
-    "obj_treasure_room_slash_Other_10_gml_76_0": "* (\\cY~1\\cW покладено до ~2\\cW.)",
-    "obj_treasure_room_slash_Other_10_gml_83_0": "* (Але серед ~2\\cW не лишилось місця.)",
+    "obj_treasure_room_slash_Other_10_gml_76_0": "* \\@@(\\cY~1\\cW покладено до ~2\\cW.)",
+    "obj_treasure_room_slash_Other_10_gml_83_0": "* \\@@(Але серед ~2\\cW не лишилось місця.)",
     "obj_unusedclassevent_slash_Step_0_gml_16_0": "* Wh..^1. what happened!^2?&* I can't see anything!!/%",
     "obj_unusedclassevent_slash_Step_0_gml_52_0": "* Hey^1, WATCH IT!/%",
     "obj_unusedclassevent_slash_Step_0_gml_94_0": "* H..^1. Huh...?/",
@@ -12858,6 +12858,6 @@
 	"android_room_borders_3": "Повна",
 	"android_room_tip": "~1 - Взаємодія, ~2 - Назад, ~3 - Керування",
     "credits_secret_mode": "Таємний режим: KuroSora & BlueSheep3",
-	"teststring_fortesting": "\\E6* \\@@Врешті-решт^1, як ми будемо до них ставитись - усе й вирішить./",
-	"faceselect_fortesting": "2"
+	"teststring_fortesting": "текстмашина",
+	"faceselect_fortesting": "5"
 }
