@@ -6,20 +6,20 @@
 
 <details>
     <summary>Приклади перекладу:</summary>
-    <img width="75%" alt="Localization screenshots" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083942836065542154/20221020185357_2.jpg">
-    <img width="75%" alt="Localization screenshots" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083942878599979109/20221020181207_1.jpg">
-    <img width="75%" alt="Localization screenshots" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083943230401413244/lancers_sign.png">
-    <img width="75%" alt="Localization screenshots" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083945036883959908/Equip_menu.png">
-    <img width="75%" alt="Localization screenshots" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083945063182254100/Ruddins_battle.png">
-    <img width="75%" alt="Localization screenshots" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083945097906896996/Topchef.png">
-    <img width="75%" alt="Localization screenshots" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083945127124422726/Susie_dialogue.png">
-    <img width="75%" alt="Localization screenshots" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083945162293653545/Bloxer_battle.png">
-    <img width="75%" alt="Localization screenshots" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083945183378411560/Pacifying.png">
-    <img width="75%" alt="Localization screenshots" src="https://cdn.discordapp.com/attachments/1083924171580510228/1131693520407756850/image_5.png">
-    <img width="75%" alt="Localization screenshots" src="https://cdn.discordapp.com/attachments/1083924171580510228/1131693711819034755/image_4.png">
-    <img width="75%" alt="Localization screenshots" src="https://cdn.discordapp.com/attachments/1083924171580510228/1131693903662289038/image_6.png">
-    <img width="75%" alt="Localization screenshots" src="https://cdn.discordapp.com/attachments/1083924171580510228/1131694255732162611/image_3.png">
-    <img width="75%" alt="Localization screenshots" src="https://cdn.discordapp.com/attachments/1083924171580510228/1131694291320836166/image_1.png">
+    <img width="75%" alt="Битва 1" src="assets/images/examples/battle.png">
+    <img width="75%" alt="Крамниця 1" src="assets/images/examples/shop1.png">
+    <img width="75%" alt="Знак" src="assets/images/examples/sign.png">
+    <img width="75%" alt="Меню зброї" src="assets/images/examples/equipmenu.png">
+    <img width="75%" alt="Битва 2" src="assets/images/examples/battle2.png">
+    <img width="75%" alt="Крутькухар" src="assets/images/examples/topchef.png">
+    <img width="75%" alt="Обід" src="assets/images/examples/lunch.png">
+    <img width="75%" alt="Битва 3" src="assets/images/examples/battle3.png">
+    <img width="75%" alt="Милість" src="assets/images/examples/pacify.png">
+    <img width="75%" alt="Пішохідний перехід" src="assets/images/examples/crosswalk.png">
+    <img width="75%" alt="Спільна ДІЯ" src="assets/images/examples/groupact.png">
+    <img width="75%" alt="Маркетолог" src="assets/images/examples/salesman.png">
+    <img width="75%" alt="Маєток" src="assets/images/examples/mansion.png">
+    <img width="75%" alt="Крамниця 2" src="assets/images/examples/shop2.png">
 </details>
 
 ## Прогрес перекладу
