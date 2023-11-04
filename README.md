@@ -70,11 +70,11 @@ https://github.com/yanchukcha/deltarune-ua/assets/83290351/932e30af-a491-4bbf-bc
 **3.** Далі перейдіть в “корінь” гри (це можна зробити, натиснувши ПКМ по ярлику на робочому столі та обравши “Відкрити розташування файлу” на Windows).
 <br>На Mac знайдіть саму програму DELTARUNE, натисніть ПКМ на неї -> “Показати зміст пакета” -> “Contents” -> “Resources”.
 <br>
-<img width="75%" alt="How to open the game folder" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083941480500039770/How_to_open_game_folder.png">
+<img width="75%" alt="Як відкрити теку гри" title="Як відкрити теку гри" src="assets/images/faq/howtoopengamefolder.png">
 <br>
 **4.** Перенесіть файли (`data` та теку `lang`) із завантаженого архіву просто до теки гри, та **ОБОВ'ЯЗКОВО** погодьтесь із заміною!
 <br>
-<img width="75%" alt="Move files" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083941491078082580/Move_files.png">
+<img width="75%" alt="Переміщення файлів" title="Переміщення файлів" src="assets/images/faq/installing.png">
 <br>
 **5.** Тепер зайдіть до гри та серед наявних мов виберіть українську. Готово! Приємної гри!
 
