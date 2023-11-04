@@ -93,14 +93,14 @@ https://github.com/yanchukcha/deltarune-ua/assets/83290351/932e30af-a491-4bbf-bc
 <br>
 **1.** Зайдіть до вкладки “[Issues](https://github.com/yanchukcha/deltarune-ua/issues)” та натисніть “New issue”.
 <br>
-<img width="50%" alt="Issues tab" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083933849026842644/2023-03-11_023409.png">
+<img width="50%" alt="Вкладка помилок" title="Вкладка помилок" src="assets/images/readme/step0.png">
 <br>
 <br>
-<img width="75%" alt="New issue tab" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083933873211183205/2023-03-11_023913.png">
+<img width="75%" alt="Вкладка нової помилки" title="Вкладка нової помилки" src="assets/images/readme/step1.png">
 <br>
 **2.** За допомогою готового шаблону з інструкціями [створіть](https://github.com/IndiMops/deltarune-ua/issues/new/choose) нове повідомлення про проблему та/або знайдену помилку в перекладі, натиснувши “Get started”
 <br>
-<img width="75%" alt="Issue template" src="https://cdn.discordapp.com/attachments/1083924171580510228/1083934626176847932/2023-03-11_024113.png">
+<img width="75%" alt="Шаблон помилки" title="Шаблон помилки" src="assets/images/readme/step2.png">
 <br>
 **3.** Для завершення натисніть на “Submit new issue”, щоб підтвердити створення свого повідомлення. Готово!<br><br>
 
