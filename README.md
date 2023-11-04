@@ -6,20 +6,20 @@
 
 <details>
     <summary>Приклади перекладу:</summary>
-    <img width="75%" alt="Битва 1" src="assets/images/examples/battle.png">
-    <img width="75%" alt="Крамниця 1" src="assets/images/examples/shop1.png">
-    <img width="75%" alt="Знак" src="assets/images/examples/sign.png">
-    <img width="75%" alt="Меню зброї" src="assets/images/examples/equipmenu.png">
-    <img width="75%" alt="Битва 2" src="assets/images/examples/battle2.png">
-    <img width="75%" alt="Крутькухар" src="assets/images/examples/topchef.png">
-    <img width="75%" alt="Обід" src="assets/images/examples/lunch.png">
-    <img width="75%" alt="Битва 3" src="assets/images/examples/battle3.png">
-    <img width="75%" alt="Милість" src="assets/images/examples/pacify.png">
-    <img width="75%" alt="Пішохідний перехід" src="assets/images/examples/crosswalk.png">
-    <img width="75%" alt="Спільна ДІЯ" src="assets/images/examples/groupact.png">
-    <img width="75%" alt="Маркетолог" src="assets/images/examples/salesman.png">
-    <img width="75%" alt="Маєток" src="assets/images/examples/mansion.png">
-    <img width="75%" alt="Крамниця 2" src="assets/images/examples/shop2.png">
+    <img width="75%" alt="Битва 1" title="Битва 1" src="assets/images/examples/battle.png">
+    <img width="75%" alt="Крамниця 1" title="Крамниця 1" src="assets/images/examples/shop1.png">
+    <img width="75%" alt="Знак" title="Знак" src="assets/images/examples/sign.png">
+    <img width="75%" alt="Меню зброї" title="Меню зброї" src="assets/images/examples/equipmenu.png">
+    <img width="75%" alt="Битва 2" title="Битва 2" src="assets/images/examples/battle2.png">
+    <img width="75%" alt="Крутькухар" title="Крутькухар" src="assets/images/examples/topchef.png">
+    <img width="75%" alt="Обід" title="Обід" src="assets/images/examples/lunch.png">
+    <img width="75%" alt="Битва 3" title="Битва 3" src="assets/images/examples/battle3.png">
+    <img width="75%" alt="Милість" title="Милість" src="assets/images/examples/pacify.png">
+    <img width="75%" alt="Пішохідний перехід" title="Пішохідний перехід" src="assets/images/examples/crosswalk.png">
+    <img width="75%" alt="Спільна ДІЯ" title="Спільна ДІЯ" src="assets/images/examples/groupact.png">
+    <img width="75%" alt="Маркетолог" title="Маркетолог" src="assets/images/examples/salesman.png">
+    <img width="75%" alt="Маєток" title="Маєток" src="assets/images/examples/mansion.png">
+    <img width="75%" alt="Крамниця 2" title="Крамниця 2" src="assets/images/examples/shop2.png">
 </details>
 
 ## Прогрес перекладу
