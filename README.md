@@ -98,7 +98,7 @@ https://github.com/yanchukcha/deltarune-ua/assets/83290351/932e30af-a491-4bbf-bc
 <br>
 <img width="75%" alt="Вкладка нової помилки" title="Вкладка нової помилки" src="assets/images/readme/step1.png">
 <br>
-**2.** За допомогою готового шаблону з інструкціями [створіть](https://github.com/IndiMops/deltarune-ua/issues/new/choose) нове повідомлення про проблему та/або знайдену помилку в перекладі, натиснувши “Get started”
+**2.** За допомогою готового шаблону з інструкціями [створіть](https://github.com/yanchukcha/deltarune-ua/issues/new/choose) нове повідомлення про проблему та/або знайдену помилку в перекладі, натиснувши “Get started”
 <br>
 <img width="75%" alt="Шаблон помилки" title="Шаблон помилки" src="assets/images/readme/step2.png">
 <br>
