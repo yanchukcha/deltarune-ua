@@ -39,7 +39,7 @@
 <br>Намальований текст: [100%]
 <br>Код: [100%]
 <br>Озвучення: [100%]
-<br>Порт на Android: [наче працює]%
+<br>Порт на Android: [100]%
 
 <details>
     <summary>Детальніше про озвучення</summary>
@@ -57,22 +57,23 @@ https://github.com/yanchukcha/deltarune-ua/assets/83290351/932e30af-a491-4bbf-bc
 (**UKR**) Оригінальні образи та графіка: [Теммі Чанґ](https://twitter.com/tuyoki) та [Kanotynes](https://twitter.com/kanotynes)<br>(**ENG**) Original Art Designers: [Temmie Chang](https://twitter.com/tuyoki) & [Kanotynes](https://twitter.com/kanotynes)
 <br><br>[Саму гру можна безплатно встановити з офіційних джерел, які можна знайти за цим посиланням.](https://deltarune.com/)
 
-**Також ми маємо свою українську спільноту гри Deltarune в Discord**
+**Також ми маємо свою українську спільноту ігри Deltarune/Undertale в Discord**
 <br>Натисніть [сюди](https://discord.gg/uBMDfeMDJ3), щоб приєднатися.
 
 # Встановлення мода:
-## Windows/Mac
+## Windows/Mac/Linux
 **УВАГА:** Перед встановленням українізації ви повинні пересвідчитися, що маєте останню версію гри (Наразі це 1.10), оскільки мод працює лише з нею.
 <br><br>**1.** Перейдіть до розділу “[Посилання](https://github.com/yanchukcha/deltarune-ua#посилання)” -> “[Завантаження мода](https://github.com/yanchukcha/deltarune-ua#Завантаження-мода)” та виберіть зручний для себе спосіб завантаження моду, а потім — останню версію локалізації, яка є зараз.
 <br><br>
-**2.** Там завантажте “Deltarune-UA_Windows.zip”, або ж “Deltarune-UA_Mac.zip”, якщо ви користувач Mac, відповідно.
+**2.** Там завантажте “Deltarune-UA_Windows.zip”, “Deltarune-UA_Mac.zip”, або “Deltarune-UA_Linux.zip”, якщо ви користувач Mac чи Linux, відповідно.
 <br><br>
 **3.** Далі перейдіть в “корінь” гри (це можна зробити, натиснувши ПКМ по ярлику на робочому столі та обравши “Відкрити розташування файлу” на Windows).
 <br>На Mac знайдіть саму програму DELTARUNE, натисніть ПКМ на неї -> “Показати зміст пакета” -> “Contents” -> “Resources”.
+<br>На Linux перейдіть у теку гри > “assets”.
 <br>
 <img width="75%" alt="Як відкрити теку гри" title="Як відкрити теку гри" src="assets/images/faq/howtoopengamefolder.png">
 <br>
-**4.** Перенесіть файли (`data` та теку `lang`) із завантаженого архіву просто до теки гри, та **ОБОВ'ЯЗКОВО** погодьтесь із заміною!
+**4.** Перенесіть файли (`data` та теку `lang`) із завантаженого архіву просто до теки гри (На Linux - в папку “assets”), та **ОБОВ'ЯЗКОВО** погодьтесь із заміною!
 <br>
 <img width="75%" alt="Переміщення файлів" title="Переміщення файлів" src="assets/images/faq/installing.png">
 <br>
@@ -116,11 +117,10 @@ https://github.com/yanchukcha/deltarune-ua/assets/83290351/932e30af-a491-4bbf-bc
 ### Ми в соцмережах
 [YouTube](https://www.youtube.com/@pereclaw)
 <br><br>[Telegram](https://t.me/Pereclaw)
-<br><br>[TikTok](https://www.tiktok.com/@pereclawteam_ua)
 <br><br>[Сервер DR/UT Україна у Discord](https://discord.gg/uBMDfeMDJ3)
 
 # Новини та оголошення
-перший та другий розділ закінчено, але досі радимо лишати відгуки щодо перекладу!<br>Внести в нього зміни потребує мінімальних зусиль, тому не соромтеся.
+Перший та другий розділ закінчено, але досі радимо лишати відгуки щодо перекладу!<br>Внести в нього зміни потребує мінімальних зусиль, тому не соромтеся.
 <br><br>**Якщо вам цікаво, є записи проходження перекладу 1-го та 2-го розділів українськими стрімерами та нумограйниками (летсплеєрами), які ви можете переглянути за цими посиланнями:**
 
 ### YouTube
