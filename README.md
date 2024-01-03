@@ -57,7 +57,7 @@ https://github.com/yanchukcha/deltarune-ua/assets/83290351/932e30af-a491-4bbf-bc
 (**UKR**) Оригінальні образи та графіка: [Теммі Чанґ](https://twitter.com/tuyoki) та [Kanotynes](https://twitter.com/kanotynes)<br>(**ENG**) Original Art Designers: [Temmie Chang](https://twitter.com/tuyoki) & [Kanotynes](https://twitter.com/kanotynes)
 <br><br>[Саму гру можна безплатно встановити з офіційних джерел, які можна знайти за цим посиланням.](https://deltarune.com/)
 
-**Також ми маємо свою українську спільноту ігри Deltarune/Undertale в Discord**
+**Також ми маємо свою українську спільноту ігор Deltarune/Undertale в Discord**
 <br>Натисніть [сюди](https://discord.gg/uBMDfeMDJ3), щоб приєднатися.
 
 # Встановлення мода:
