@@ -147,7 +147,7 @@ https://github.com/yanchukcha/deltarune-ua/assets/83290351/932e30af-a491-4bbf-bc
 - Paralvion
 
 ### Організаторка:
-- DanielleTlumach: [Discord](https://discord.com/users/625325289656025089), [Steam](https://steamcommunity.com/id/DanyloRoch/), [Twitch](https://www.twitch.tv/daniellatlumach)
+- DanielleTlumach: [Discord](https://discord.com/users/625325289656025089), [Steam](https://steamcommunity.com/id/DanielleRocz/), [Twitch](https://www.twitch.tv/danielletlumach)
 
 ### Озвучення Джиявола:
 - LostHuman - [Youtube](https://www.youtube.com/c/WildGamer111) (Голос)
