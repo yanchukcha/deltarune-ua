@@ -83,7 +83,7 @@ https://github.com/yanchukcha/deltarune-ua/assets/83290351/932e30af-a491-4bbf-bc
 ## Android
 **1.** Перейдіть до розділу “[Посилання](https://github.com/yanchukcha/deltarune-ua#Посилання)” -> “[Завантаження мода](https://github.com/yanchukcha/deltarune-ua#Завантаження-мода)” та виберіть зручний для себе спосіб завантаження моду, а потім — останню версію локалізації, яка є зараз.
 <br><br>
-**2.** Завантажте та встановіть “deltUA_mobile.apk”. У разі крашів спробуйте встановити “deltUA_mobile_shaderless.apk”, НЕ видаляючи перед тим уже встановлену гру.
+**2.** Завантажте та встановіть “Deltarune-UA_Android.apk”. У разі крашів спробуйте встановити “Deltarune-UA_Android_Shaderless.apk”, НЕ видаляючи перед тим уже встановлену гру.
 <br><br>
 **3.** Тепер зайдіть до гри та серед наявних мов виберіть українську. Готово! Приємної гри!
 <br><br>
@@ -105,7 +105,7 @@ https://github.com/yanchukcha/deltarune-ua/assets/83290351/932e30af-a491-4bbf-bc
 <br>
 **3.** Для завершення натисніть на “Submit new issue”, щоб підтвердити створення свого повідомлення. Готово!<br><br>
 
-Також ви можете особисто звернутися до [yanchukcha](https://discord.com/users/366303194688782336) або [danielle](https://discord.com/users/625325289656025089) у Discord, чи створити новий допис в каналі “#баґи-та-критика” на самому [сервері](https://discord.gg/uBMDfeMDJ3).<br>
+Також ви можете особисто звернутися до [yanchukcha](https://discordapp.com/users/366303194688782336) або [danielle](https://discordapp.com/users/625325289656025089) у Discord, чи створити новий допис в каналі “#баґи-та-критика” на самому [сервері](https://discord.gg/uBMDfeMDJ3).<br>
 
 # Посилання
 
@@ -116,7 +116,7 @@ https://github.com/yanchukcha/deltarune-ua/assets/83290351/932e30af-a491-4bbf-bc
 
 ### Ми в соцмережах
 [YouTube](https://www.youtube.com/@pereclaw)
-<br><br>[Telegram](https://t.me/Pereclaw)
+<br><br>[Telegram](https://t.me/pereclawteam)
 <br><br>[Сервер DR/UT Україна у Discord](https://discord.gg/uBMDfeMDJ3)
 
 # Новини та оголошення
@@ -138,7 +138,7 @@ https://github.com/yanchukcha/deltarune-ua/assets/83290351/932e30af-a491-4bbf-bc
         <a href="https://t.me/pereclawteam"><img alt="Telegram" src="https://img.shields.io/static/v1?link=https://t.me/pereclawteam&label=Pereclaw&style=social&logo=telegram&message=локалізація ігор"></a>
 
 ### Основні перекладачі:
-- yanchukcha: [Discord](https://discord.com/users/366303194688782336)
+- yanchukcha: [Discord](https://discordapp.com/users/366303194688782336)
 - DanielleTlumach
 - IOLEKS
 
@@ -147,7 +147,7 @@ https://github.com/yanchukcha/deltarune-ua/assets/83290351/932e30af-a491-4bbf-bc
 - Paralvion
 
 ### Організаторка:
-- DanielleTlumach: [Discord](https://discord.com/users/625325289656025089), [Steam](https://steamcommunity.com/id/DanielleRocz/), [Twitch](https://www.twitch.tv/danielletlumach)
+- DanielleTlumach: [Discord](https://discordapp.com/users/625325289656025089), [Steam](https://steamcommunity.com/id/DanielleRocz/), [Twitch](https://www.twitch.tv/danielletlumach)
 
 ### Озвучення Джиявола:
 - LostHuman - [Youtube](https://www.youtube.com/c/WildGamer111) (Голос)
