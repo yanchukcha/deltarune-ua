@@ -1,6 +1,6 @@
 # deltarune-ua
 
-Українська локалізація гри [Deltarune](https://deltarune.com/).<br>Переклад є особливим тому, що робиться українцями.<br>Ви не зустрінете в діалогах машинного перекладу - **лише живий!**<br>Наш переклад перефразовує англомовні жарти на зрозумілі для українців, тому вам не буде нудно проходити гру.
+Українська локалізація гри [Deltarune](https://deltarune.com/).<br>Переклад є особливим тому, що робиться українцями.<br>Ви не зустрінете в діалогах машинного перекладу — **лише живий!**<br>Наш переклад перефразовує англомовні жарти на зрозумілі для українців, тому вам не буде нудно проходити гру.
 
 
 
@@ -150,12 +150,12 @@ https://github.com/yanchukcha/deltarune-ua/assets/83290351/932e30af-a491-4bbf-bc
 - DanielleTlumach: [Discord](https://discordapp.com/users/625325289656025089), [Steam](https://steamcommunity.com/id/DanielleRocz/), [Twitch](https://www.twitch.tv/danielletlumach)
 
 ### Озвучення Джиявола:
-- LostHuman - [Youtube](https://www.youtube.com/c/WildGamer111) (Голос)
+- LostHuman — [Youtube](https://www.youtube.com/c/WildGamer111) (Голос)
 - yanchukcha (Обробка)
 - DanielleTlumach (Режисерування)
 
 ### Озвучення Спамтона:
-- nini - [Youtube](https://www.youtube.com/@reiiini) та AevilJ - [Youtube](https://www.youtube.com/@AevilJ) (Інструментал)
+- nini — [Youtube](https://www.youtube.com/@reiiini) та AevilJ — [Youtube](https://www.youtube.com/@AevilJ) (Інструментал)
 - Ілля Янчицький (Голос)
 - yanchukcha (Обробка)
 - yanchukcha та Roavello (Міксування)
@@ -167,13 +167,13 @@ https://github.com/yanchukcha/deltarune-ua/assets/83290351/932e30af-a491-4bbf-bc
 - TTS Олена (Диспетчерка)
 - FL Studio TTS (Кнопки літер)
 
-### Don't Forget - “Не забудь” (Вокальний уривок):
-- FulminisIctus - [Youtube](https://www.youtube.com/c/FulminisIctus) (Інструментал)
-- neonbonbon - [Twitch](https://www.twitch.tv/neonbonbon?sr=a) (Вокал)
+### Don't Forget — “Не забудь” (Вокальний уривок):
+- FulminisIctus — [Youtube](https://www.youtube.com/c/FulminisIctus) (Інструментал)
+- neonbonbon — [Twitch](https://www.twitch.tv/neonbonbon?sr=a) (Вокал)
 - yanchukcha (Обробка)
 - DanielleTlumach (Режисерування)
 
-### Until Next Time - “До зустрічі”
+### Until Next Time — “До зустрічі”
 - AlexGamingSW (Інструментал)
 - neonbonbon (Вокал)
 - Napthablook та yanchukcha (Міксування)
