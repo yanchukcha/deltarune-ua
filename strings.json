@@ -11635,7 +11635,7 @@
     "obj_debug_xy_slash_Draw_74_gml_29_0_b": "instance_count: ~1",
     "obj_dojo_spareenemy_slash_Step_0_gml_19_0": "\\M2Бос^1! Не слухай^1!&Це не та ДІЯ!^1!&НЕ ТА ДІЯ!^1!/%",
     "obj_dojo_spareenemy_slash_Step_0_gml_23_0": "О-о-о, бос,&ви мене&щадите!?/%",
-    "obj_dojo_spareenemy_slash_Step_0_gml_27_0": "\\@@Вам вдалося, бос!^1&Якщо у вас вийде одразу&щадити ворогів.../",
+    "obj_dojo_spareenemy_slash_Step_0_gml_27_0": "\\@@Вам вдалося, бос!^1&Якщо у вас вийде одразу&ЩАДИТИ ворогів.../",
     "obj_dojo_spareenemy_slash_Step_0_gml_28_0": "Бійки пролітатимуть&значно швидше!&Ось і все!/%",
     "obj_dojo_spareenemy_slash_Step_0_gml_32_0": "Бос!/",
     "obj_dojo_spareenemy_slash_Step_0_gml_33_0": "ДІЯТИ й ЩАДИТИ&можна на одному&й тому ж ході!/",
