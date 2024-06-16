@@ -130,7 +130,7 @@ https://github.com/yanchukcha/deltarune-ua/assets/83290351/932e30af-a491-4bbf-bc
 
 # Автори
 
-## Перекладацька команда “Pereclaw”
+## Перекладацька спілка “Pereclaw”
 
 <p>
         <a href="https://discord.gg/uBMDfeMDJ3"><img alt="Discord" src="https://img.shields.io/discord/975491034823917658?label=Discord&logo=discord&style=social"></a>
