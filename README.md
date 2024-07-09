@@ -117,7 +117,8 @@ https://github.com/yanchukcha/deltarune-ua/assets/83290351/932e30af-a491-4bbf-bc
 ### Ми в соцмережах
 [YouTube](https://www.youtube.com/@pereclaw)
 <br><br>[Telegram](https://t.me/pereclawteam)
-<br><br>[Сервер DR/UT Україна у Discord](https://discord.gg/uBMDfeMDJ3)
+<br><br>[Discord)(https://discord.gg/K8bcdcY6Td)
+<br><br>[Сервер DR/UT Україна (Discord)](https://discord.gg/uBMDfeMDJ3)
 
 # Новини та оголошення
 Перший та другий розділ закінчено, але досі радимо лишати відгуки щодо перекладу!<br>Внести в нього зміни потребує мінімальних зусиль, тому не соромтеся.
@@ -133,7 +134,7 @@ https://github.com/yanchukcha/deltarune-ua/assets/83290351/932e30af-a491-4bbf-bc
 ## Перекладацька спілка “Pereclaw”
 
 <p>
-        <a href="https://discord.gg/uBMDfeMDJ3"><img alt="Discord" src="https://img.shields.io/discord/975491034823917658?label=Discord&logo=discord&style=social"></a>
+        <a href="https://discord.gg/K8bcdcY6Td"><img alt="Discord" src="https://img.shields.io/discord/975491034823917658?label=Discord&logo=discord&style=social"></a>
         <a href="https://www.youtube.com/@pereclaw"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCNG4f8zRUFxw1JvtQV8oh_w?label=Pereclaw&style=social"></a>
         <a href="https://t.me/pereclawteam"><img alt="Telegram" src="https://img.shields.io/static/v1?link=https://t.me/pereclawteam&label=Pereclaw&style=social&logo=telegram&message=локалізація ігор"></a>
 
