@@ -63,6 +63,7 @@ https://github.com/yanchukcha/deltarune-ua/assets/83290351/932e30af-a491-4bbf-bc
 # Встановлення мода:
 ## Windows/Mac/Linux
 **УВАГА:** Перед встановленням українізації ви повинні пересвідчитися, що маєте останню версію гри (Наразі це 1.10), оскільки мод працює лише з нею.
+**УВАГА №2: Якщо на Linux для Windows ігор ви використовуєте Proton — повторюйте кроки встановлення для Windows, інакше — окремі під Linux.**
 <br><br>**1.** Перейдіть до розділу “[Посилання](https://github.com/yanchukcha/deltarune-ua#посилання)” -> “[Завантаження мода](https://github.com/yanchukcha/deltarune-ua#Завантаження-мода)” та виберіть зручний для себе спосіб завантаження моду, а потім — останню версію локалізації, яка є зараз.
 <br><br>
 **2.** Там завантажте “Deltarune-UA_Windows.zip”, “Deltarune-UA_Mac.zip”, або “Deltarune-UA_Linux.zip”, якщо ви користувач Mac чи Linux, відповідно.
@@ -146,6 +147,7 @@ https://github.com/yanchukcha/deltarune-ua/assets/83290351/932e30af-a491-4bbf-bc
 ### Інші перекладачі:
 - Семен Згущений
 - Paralvion
+- pita_guy
 
 ### Організаторка:
 - DanielleTlumach: [Discord](https://discordapp.com/users/625325289656025089), [Steam](https://steamcommunity.com/id/DanielleRocz/), [Twitch](https://www.twitch.tv/danielletlumach)
