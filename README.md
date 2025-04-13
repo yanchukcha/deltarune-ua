@@ -68,7 +68,7 @@ https://github.com/yanchukcha/deltarune-ua/assets/83290351/932e30af-a491-4bbf-bc
 <br><br>
 **2.** Там завантажте “Deltarune-UA_Windows.zip”, “Deltarune-UA_Mac.zip”, або “Deltarune-UA_Linux.zip”, якщо ви користувач Mac чи Linux, відповідно.
 <br><br>
-**3.** Далі перейдіть в “корінь” гри (це можна зробити, натиснувши ПКМ по ярлику на робочому столі та обравши “Відкрити розташування файлу” на Windows).
+**3.** Далі перейдіть у “корінь” гри (це можна зробити, натиснувши ПКМ по ярлику на робочому столі та обравши “Відкрити розташування файлу” на Windows).
 <br>На Mac знайдіть саму програму DELTARUNE, натисніть ПКМ на неї -> “Показати зміст пакета” -> “Contents” -> “Resources”.
 <br>На Linux перейдіть у теку гри > “assets”.
 <br>
@@ -84,14 +84,14 @@ https://github.com/yanchukcha/deltarune-ua/assets/83290351/932e30af-a491-4bbf-bc
 ## Android
 **1.** Перейдіть до розділу “[Посилання](https://github.com/yanchukcha/deltarune-ua#Посилання)” -> “[Завантаження мода](https://github.com/yanchukcha/deltarune-ua#Завантаження-мода)” та виберіть зручний для себе спосіб завантаження моду, а потім — останню версію локалізації, яка є зараз.
 <br><br>
-**2.** Завантажте та встановіть “Deltarune-UA_Android.apk”. У разі крашів спробуйте встановити “Deltarune-UA_Android_Shaderless.apk”, НЕ видаляючи перед тим уже встановлену гру.
+**2.** Там завантажте та встановіть “Deltarune-UA_Android.apk”. У разі крашів спробуйте встановити “Deltarune-UA_Android_Shaderless.apk”, НЕ видаляючи перед тим уже встановлену гру.
 <br><br>
 **3.** Тепер зайдіть до гри та серед наявних мов виберіть українську. Готово! Приємної гри!
 <br><br>
 **P.S.** Перед оновленням застосунку на нову версію, НЕ видаляйте стару, щоб не втратити свої збереження!
 
 ## Повідомлення про проблеми та питання:
-Якщо у вас виникли якісь проблеми із встановленням, чи є якісь інші питання:
+Якщо у вас виникли проблеми із встановленням, чи є якісь інші питання:
 <br>
 **1.** Зайдіть до вкладки “[Issues](https://github.com/yanchukcha/deltarune-ua/issues)” та натисніть “New issue”.
 <br>
@@ -153,13 +153,13 @@ https://github.com/yanchukcha/deltarune-ua/assets/83290351/932e30af-a491-4bbf-bc
 - DanielleTlumach: [Discord](https://discordapp.com/users/625325289656025089), [Steam](https://steamcommunity.com/id/DanielleRocz/), [Twitch](https://www.twitch.tv/danielletlumach)
 
 ### Озвучення Джиявола:
-- LostHuman — [Youtube](https://www.youtube.com/c/WildGamer111) (Голос)
+- LostHuman — [Youtube](https://www.youtube.com/c/WildGamer111) (Вокал)
 - yanchukcha (Обробка)
 - DanielleTlumach (Режисерування)
 
 ### Озвучення Спамтона:
 - nini — [Youtube](https://www.youtube.com/@reiiini) та AevilJ — [Youtube](https://www.youtube.com/@AevilJ) (Інструментал)
-- Ілля Янчицький (Голос)
+- Ілля Янчицький (Вокал)
 - yanchukcha (Обробка)
 - yanchukcha та Roavello (Міксування)
 - DanielleTlumach (Режисерування)
