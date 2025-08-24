@@ -47,7 +47,7 @@
 </details>
 
 ### Трейлер
-https://github.com/yanchukcha/deltarune-ua/assets/83290351/932e30af-a491-4bbf-bcfb-ce1ca638fff6
+https://github.com/pereclaw/deltarune-ua/assets/83290351/932e30af-a491-4bbf-bcfb-ce1ca638fff6
 
 ## Deltarune
 **P.S**: Якщо ви стримите або нумограєте гру з нашою українізацією, просимо вас вказати авторів перекладу та/або оригінальних творців гри нижче.
@@ -64,7 +64,7 @@ https://github.com/yanchukcha/deltarune-ua/assets/83290351/932e30af-a491-4bbf-bc
 ## Windows/Mac/Linux
 **УВАГА:** Перед встановленням українізації ви повинні пересвідчитися, що маєте останню версію гри (Зараз це 1.10), оскільки мод працює лише з нею.
 <br>**УВАГА №2:** Якщо на Linux для Windows ігор ви використовуєте Proton — завантажуйте версію для Windows та слідуйте крокам встановлення для нього, інакше — окремий порт локалізації на Linux та відповідні кроки.
-<br><br>**1.** Перейдіть до розділу “[Посилання](https://github.com/yanchukcha/deltarune-ua#посилання)” -> “[Завантаження мода](https://github.com/yanchukcha/deltarune-ua#Завантаження-мода)” та виберіть зручний для себе спосіб завантаження моду, а потім — останню версію локалізації, яка є зараз.
+<br><br>**1.** Перейдіть до розділу “[Посилання](https://github.com/pereclaw/deltarune-ua#посилання)” -> “[Завантаження мода](https://github.com/pereclaw/deltarune-ua#Завантаження-мода)” та виберіть зручний для себе спосіб завантаження моду, а потім — останню версію локалізації, яка є зараз.
 <br><br>
 **2.** Там завантажте “Deltarune-UA_Windows.zip”, “Deltarune-UA_Mac.zip”, або “Deltarune-UA_Linux.zip”, якщо ви користувач Mac чи Linux, відповідно.
 <br><br>
@@ -82,7 +82,7 @@ https://github.com/yanchukcha/deltarune-ua/assets/83290351/932e30af-a491-4bbf-bc
 
 
 ## Android
-**1.** Перейдіть до розділу “[Посилання](https://github.com/yanchukcha/deltarune-ua#Посилання)” -> “[Завантаження мода](https://github.com/yanchukcha/deltarune-ua#Завантаження-мода)” та виберіть зручний для себе спосіб завантаження моду, а потім — останню версію локалізації, яка є зараз.
+**1.** Перейдіть до розділу “[Посилання](https://github.com/pereclaw/deltarune-ua#Посилання)” -> “[Завантаження мода](https://github.com/pereclaw/deltarune-ua#Завантаження-мода)” та виберіть зручний для себе спосіб завантаження моду, а потім — останню версію локалізації, яка є зараз.
 <br><br>
 **2.** Там завантажте та встановіть “Deltarune-UA_Android.apk”. У разі крашів спробуйте встановити “Deltarune-UA_Android_Shaderless.apk”, НЕ видаляючи перед тим уже встановлену гру.
 <br><br>
@@ -93,25 +93,25 @@ https://github.com/yanchukcha/deltarune-ua/assets/83290351/932e30af-a491-4bbf-bc
 ## Повідомлення про проблеми та питання:
 Якщо у вас виникли проблеми із встановленням, чи є якісь інші питання:
 <br>
-**1.** Зайдіть до вкладки “[Issues](https://github.com/yanchukcha/deltarune-ua/issues)” та натисніть “New issue”.
+**1.** Зайдіть до вкладки “[Issues](https://github.com/pereclaw/deltarune-ua/issues)” та натисніть “New issue”.
 <br>
 <img width="50%" alt="Вкладка помилок" title="Вкладка помилок" src="assets/images/readme/step0.png">
 <br>
 <br>
 <img width="75%" alt="Вкладка нової помилки" title="Вкладка нової помилки" src="assets/images/readme/step1.png">
 <br>
-**2.** За допомогою готового шаблону з інструкціями [створіть](https://github.com/yanchukcha/deltarune-ua/issues/new/choose) нове повідомлення про проблему та/або знайдену помилку в перекладі, натиснувши “Get started”
+**2.** За допомогою готового шаблону з інструкціями [створіть](https://github.com/pereclaw/deltarune-ua/issues/new/choose) нове повідомлення про проблему та/або знайдену помилку в перекладі, натиснувши “Get started”
 <br>
 <img width="75%" alt="Шаблон помилки" title="Шаблон помилки" src="assets/images/readme/step2.png">
 <br>
 **3.** Для завершення натисніть на “Submit new issue”, щоб підтвердити створення свого повідомлення. Готово!<br><br>
 
-Також ви можете особисто звернутися до [yanchukcha](https://discordapp.com/users/366303194688782336) або [danielle](https://discordapp.com/users/625325289656025089) у Discord, чи створити новий допис в каналі “#баґи-та-критика” на самому [сервері](https://discord.gg/uBMDfeMDJ3).<br>
+Також ви можете особисто звернутися до [pereclaw](https://discordapp.com/users/366303194688782336) або [danielle](https://discordapp.com/users/625325289656025089) у Discord, чи створити новий допис в каналі “#баґи-та-критика” на самому [сервері](https://discord.gg/uBMDfeMDJ3).<br>
 
 # Посилання
 
 ### Завантаження мода
-[Github](https://github.com/yanchukcha/deltarune-ua/releases)
+[Github](https://github.com/pereclaw/deltarune-ua/releases)
 <br><br>[Google Диск](https://drive.google.com/drive/folders/1ddDw02e9ku1zThp_Ia6moOhIsqJEMlbt?usp=sharing)
 <br><br>[Nexusmods](https://www.nexusmods.com/deltarune/mods/8?tab=files)<br>
 
